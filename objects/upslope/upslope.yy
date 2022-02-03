@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "sFlag",
-    "path": "sprites/sFlag/sFlag.yy",
+    "name": "Sprite21",
+    "path": "sprites/Sprite21/Sprite21.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Ground",
+    "path": "objects/Ground/Ground.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,17 +23,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"PatrolEnemy","path":"objects/PatrolEnemy/PatrolEnemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "groundgroup",
+    "path": "folders/Objects/groundgroup.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oFlag",
+  "name": "upslope",
   "tags": [],
   "resourceType": "GMObject",
 }

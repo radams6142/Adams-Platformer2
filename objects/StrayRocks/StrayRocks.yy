@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sFlag",
-    "path": "sprites/sFlag/sFlag.yy",
+    "name": "Sprite20",
+    "path": "sprites/Sprite20/Sprite20.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,9 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"PatrolEnemy","path":"objects/PatrolEnemy/PatrolEnemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -30,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oFlag",
+  "name": "StrayRocks",
   "tags": [],
   "resourceType": "GMObject",
 }

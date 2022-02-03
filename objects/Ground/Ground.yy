@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sGround",
-    "path": "sprites/sGround/sGround.yy",
+    "name": "Sprite17",
+    "path": "sprites/Sprite17/Sprite17.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "groundgroup",
+    "path": "folders/Objects/groundgroup.yy",
   },
   "resourceVersion": "1.0",
   "name": "Ground",
