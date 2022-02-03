@@ -1,8 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (place_meeting(x+xVector, y, Ground)) 
+if (place_meeting(x, y, Ground))
 {
-image_xscale = 1
+	instance_destroy(self)
 }
-

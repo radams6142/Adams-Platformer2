@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Ground",
+    "path": "objects/Ground/Ground.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
