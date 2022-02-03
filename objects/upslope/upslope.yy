@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite21",
-    "path": "sprites/Sprite21/Sprite21.yy",
+    "name": "sUpGround",
+    "path": "sprites/sUpGround/sUpGround.yy",
   },
   "solid": false,
   "visible": true,

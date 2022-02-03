@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite20",
-    "path": "sprites/Sprite20/Sprite20.yy",
+    "name": "sStrayRock",
+    "path": "sprites/sStrayRock/sStrayRock.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "groundgroup",
+    "path": "folders/Objects/groundgroup.yy",
   },
   "resourceVersion": "1.0",
   "name": "StrayRocks",
