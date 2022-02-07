@@ -38,4 +38,3 @@ y = y + yVector;
     image_xscale = sign(Player.x - x);
 	
 }
-
