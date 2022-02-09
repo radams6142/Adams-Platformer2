@@ -20,10 +20,9 @@
     {"id":{"name":"spikes","path":"objects/spikes/spikes.yy",},"order":2,},
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},"order":21,},
     {"id":{"name":"EnemyTurret","path":"objects/EnemyTurret/EnemyTurret.yy",},"order":4,},
-    {"id":{"name":"sDarkness","path":"sprites/sDarkness/sDarkness.yy",},"order":10,},
     {"id":{"name":"oFlashlight","path":"objects/oFlashlight/oFlashlight.yy",},"order":12,},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":2,},
-    {"id":{"name":"eEnemyProjectile","path":"sprites/eEnemyProjectile/eEnemyProjectile.yy",},"order":3,},
+    {"id":{"name":"sEnemyProjectile","path":"sprites/sEnemyProjectile/sEnemyProjectile.yy",},"order":3,},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":17,},
     {"id":{"name":"upslope","path":"objects/upslope/upslope.yy",},"order":1,},
     {"id":{"name":"sPlant","path":"sprites/sPlant/sPlant.yy",},"order":6,},
@@ -58,7 +57,6 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
-  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -92,7 +90,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.606",
+    "IDEVersion": "2022.1.1.610",
   },
   "resourceVersion": "1.4",
   "name": "Adams Platformer2",

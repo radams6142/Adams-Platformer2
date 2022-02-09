@@ -15,6 +15,6 @@ global.coins = -0;
 global.points = 0;
 
 
-hp=3
+hp=300
 iFrames= false; 
 
