@@ -24,7 +24,7 @@
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":2,},
     {"id":{"name":"sEnemyProjectile","path":"sprites/sEnemyProjectile/sEnemyProjectile.yy",},"order":3,},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":17,},
-    {"id":{"name":"upslope","path":"objects/upslope/upslope.yy",},"order":1,},
+    {"id":{"name":"Slope","path":"objects/Slope/Slope.yy",},"order":1,},
     {"id":{"name":"sPlant","path":"sprites/sPlant/sPlant.yy",},"order":6,},
     {"id":{"name":"sMainFloor","path":"sprites/sMainFloor/sMainFloor.yy",},"order":1,},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":3,},

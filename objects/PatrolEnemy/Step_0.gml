@@ -11,20 +11,19 @@ if(iFrames)
 	
 }
 
-/*
+
 xVector = xDirection * xSpeed;
 yVector = yVector + yGravity;
 
 
 if (place_meeting(x+xVector, y, Ground))
 {
-	turnTimer = 2.5;
 	xDirection = -xDirection;
-	image_xscale = 1
+	
 }
 
 x = x + xVector;
-*/
+
 
 if (place_meeting(x, y+yVector, Ground))
 {
@@ -37,13 +36,14 @@ if (place_meeting(x, y+yVector, Ground))
 
 y = y + yVector; 
 
+
 {
 	if Player.x != x
     image_xscale = sign(Player.x - x);
 	
 }
 
-if distance_to_object(Player)<room_width{   
+if distance_to_object(Player)<700{   
       if (collision_line(x,y,Player.x,Player.y,sMainFloor,true,true) = noone) {
            direction=point_direction(x,y,Player.x,Player.y);
            speed= 2
@@ -55,15 +55,4 @@ if(abs(Player.x - PatrolEnemy.x) < 128)
 	if (Player.x > PatrolEnemy.x)
 		x=x + xVector 
 		xVector = xVector
-}
-
-/*
-{
-if Player.y > PatrolEnemy.y
-	yVector = yVector				
-	else yVector = yVector * -1
-}
-{
-x=x + xVector 
-y=y + yVector
 }

@@ -31,7 +31,7 @@
     "path": "folders/Objects/groundgroup.yy",
   },
   "resourceVersion": "1.0",
-  "name": "upslope",
+  "name": "Slope",
   "tags": [],
   "resourceType": "GMObject",
 }

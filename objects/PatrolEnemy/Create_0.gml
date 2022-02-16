@@ -6,12 +6,13 @@ xDirection = 1;
 //1= RIGHT, -1= LEFT, 0= NOT MOVING
 xSpeed = 2;
 xVector = xDirection * xSpeed;
-yGravity = .35;
+yGravity = .2;
 yVector = 0 
 
 iFrames = false;
 hp = 20;
 iFramesTimer = 2
+/*
 turnTimer =2;
 
 turnTimer -=1/room_speed;
