@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sEnemyProjectile",
-    "path": "sprites/sEnemyProjectile/sEnemyProjectile.yy",
+    "name": "sLaser",
+    "path": "sprites/sLaser/sLaser.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,17 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "enemies",
-    "path": "folders/Objects/enemies.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oEnemyProjectile",
+  "name": "oLaser",
   "tags": [],
   "resourceType": "GMObject",
 }

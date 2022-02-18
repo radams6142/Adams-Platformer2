@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "groundgroup",
-    "path": "folders/Objects/groundgroup.yy",
+    "name": "ground",
+    "path": "folders/Objects/ground.yy",
   },
   "resourceVersion": "1.0",
   "name": "spikes",

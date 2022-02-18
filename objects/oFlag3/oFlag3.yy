@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "flags",
+    "path": "folders/Objects/flags.yy",
   },
   "resourceVersion": "1.0",
   "name": "oFlag3",

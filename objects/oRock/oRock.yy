@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "sEnemyProjectile",
-    "path": "sprites/sEnemyProjectile/sEnemyProjectile.yy",
+    "name": "sRock",
+    "path": "sprites/sRock/sRock.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Ground",
+    "path": "objects/Ground/Ground.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,17 +23,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "enemies",
-    "path": "folders/Objects/enemies.yy",
+    "name": "ground",
+    "path": "folders/Objects/ground.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oEnemyProjectile",
+  "name": "oRock",
   "tags": [],
   "resourceType": "GMObject",
 }

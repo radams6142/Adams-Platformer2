@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "flags",
+    "path": "folders/Sprites/flags.yy",
   },
   "resourceVersion": "1.0",
   "name": "sFlag3",

@@ -17,7 +17,9 @@ function PlayerHurt()
 
 function PlayerDeath()
 {
-	
-room_restart();
+
+instance_create_layer(Player.x, Player.y,"Instances",)
+room_restart ();
 
 }
+
