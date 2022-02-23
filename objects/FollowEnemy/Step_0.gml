@@ -43,7 +43,7 @@ y = y + yVector;
 	
 }
 
-if distance_to_object(Player)<700{   
+if distance_to_object(Player)<1000{   
       if (collision_line(x,y,Player.x,Player.y,sMainFloor,true,true) = noone) {
            direction=point_direction(x,y,Player.x,Player.y);
            speed= 2

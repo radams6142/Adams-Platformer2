@@ -1,6 +1,15 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+enum states 
+{
+	walking,
+	jumping,
+
+}
+
+state = states.walking
+
 // movement variables
 xDirection = 0;
 //1= RIGHT, -1= LEFT, 0= NOT MOVING
