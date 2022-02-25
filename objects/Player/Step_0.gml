@@ -24,6 +24,7 @@ if (keyboard_check_pressed(vk_right))
 	image_xscale = 1
 }
 
+
 //fall death
 if (y>= room_height)
 {

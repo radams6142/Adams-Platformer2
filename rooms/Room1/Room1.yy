@@ -14,7 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"Player","path":"objects/Player/Player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":305.0,"y":551.0,"resourceVersion":"1.0","name":"inst_3FA0309","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Coin","path":"objects/Coin/Coin.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":669.0,"y":474.0,"resourceVersion":"1.0","name":"inst_1941E3DC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"EnemyTurret","path":"objects/EnemyTurret/EnemyTurret.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":true,"inheritItemSettings":false,"x":450.0,"y":416.5,"resourceVersion":"1.0","name":"inst_5F380677","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":2.10416651,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":247.0,"y":551.0,"resourceVersion":"1.0","name":"inst_62390FD1","tags":[],"resourceType":"GMRInstance",},
@@ -100,14 +99,14 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oPlant","path":"objects/oPlant/oPlant.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.12903786,"scaleY":3.375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":true,"inheritItemSettings":false,"x":2623.0,"y":233.037521,"resourceVersion":"1.0","name":"inst_4738B43E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"EnemyTurret","path":"objects/EnemyTurret/EnemyTurret.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":384.0,"resourceVersion":"1.0","name":"inst_6DC9249","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oLaser","path":"objects/oLaser/oLaser.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.21354163,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2278.0,"y":471.0,"resourceVersion":"1.0","name":"inst_11FEC5C1","tags":[],"resourceType":"GMRInstance",},
-      ],"visible":true,"depth":10,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
-    {"spriteId":{"name":"sBG","path":"sprites/sBG/sBG.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":110,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Backgrounds_1","tags":[],"resourceType":"GMRBackgroundLayer",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Player","path":"objects/Player/Player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":528.0,"resourceVersion":"1.0","name":"inst_5FEEA7A","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":10,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"spriteId":{"name":"sBG","path":"sprites/sBG/sBG.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":110,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Backgrounds_1","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
   "inheritLayers": false,
   "creationCodeFile": "${project_dir}/rooms/Room1/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_3FA0309","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_1941E3DC","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5F380677","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_62390FD1","path":"rooms/Room1/Room1.yy",},
@@ -193,6 +192,7 @@
     {"name":"inst_4738B43E","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6DC9249","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_11FEC5C1","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_5FEEA7A","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -5,7 +5,8 @@ enum states
 {
 	walking,
 	jumping,
-
+	idle,
+	
 }
 
 state = states.walking

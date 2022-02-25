@@ -8,4 +8,5 @@ function stPlayerJumping(){
 	{
 	state = states.walking;
 	}
+	
 }

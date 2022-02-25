@@ -13,9 +13,12 @@ function stPlayerWalking()
 	CheckCollisionsY();
 	y = y + yVector; 
 
+sprite_index = sPlayerWalk
 
 	if(place_meeting(x, y+1, Ground) and (jump))
 	{
 		state = states.jumping;
 	}
+	
+	
 }
