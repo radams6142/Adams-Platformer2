@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ground",
-    "path": "folders/Objects/ground.yy",
+    "name": "cave",
+    "path": "folders/Objects/cave.yy",
   },
   "resourceVersion": "1.0",
   "name": "oGroundPlant",

@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "ground",
-    "path": "folders/Sprites/ground.yy",
+    "name": "cave",
+    "path": "folders/Sprites/cave.yy",
   },
   "resourceVersion": "1.0",
   "name": "sSpikes",

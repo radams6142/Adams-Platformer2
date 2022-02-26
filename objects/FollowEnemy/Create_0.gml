@@ -10,7 +10,7 @@ yGravity = .1;
 yVector = 0 
 
 iFrames = false;
-hp = 1;
+hp = 2;
 iFramesTimer = 2
 /*
 turnTimer =2;
