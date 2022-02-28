@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "sFlag2",
-    "path": "sprites/sFlag2/sFlag2.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sPlantPotPink",
+    "path": "sprites/sPlantPotPink/sPlantPotPink.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "flags",
-    "path": "folders/Objects/flags.yy",
+    "name": "farm",
+    "path": "folders/Objects/farm.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oFlag3",
+  "name": "oPlantPotPink",
   "tags": [],
   "resourceType": "GMObject",
 }

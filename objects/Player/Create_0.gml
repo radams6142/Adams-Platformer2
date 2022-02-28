@@ -5,26 +5,18 @@ enum states
 {
 	walking,
 	jumping,
-	idle,
-	
 }
+state = states.walking;
 
-state = states.walking
+state_array [states.walking] = stPlayerWalking(); 
+state_array [states.jumping] = stPlayerJumping();
 
-// movement variables
-xDirection = 0;
-//1= RIGHT, -1= LEFT, 0= NOT MOVING
-xSpeed = 4;
-xVector = xDirection * xSpeed;
-yGravity = .35;
-jumpForce = -10;
-yVector = 0; 
+sprite_array [states.walking] = sPlayerWalk;
+sprite_array [states.jumping] = sPlayerJump;
 
 // global variables
 global.coins = -0;
 global.points = 0;
 
-
-hp=300
+hp=6;
 iFrames= false; 
-
