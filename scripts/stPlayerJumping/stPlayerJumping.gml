@@ -1,16 +1,21 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function stPlayerJumping(){
-	yVector = jumpForce;
+function stPlayerJumping()
+{
+	MoveX()
 	
-if (xDirection != 0)
+	if (canJump)
 	{
-			image_xscale = xDirection;
+		canJump = false;
+		yVector = jumpForce;
 	}
+	
+	MoveY()
+
 	
 	if(place_meeting(x, y+1, Ground))
 	{
-	state = states.walking;
+		canJump = true 
+		state = states.walking;
 	}
-	
-}
+} 
