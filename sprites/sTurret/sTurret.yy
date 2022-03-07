@@ -15,7 +15,7 @@
   "VTile": false,
   "For3D": false,
   "width": 64,
-  "height": 64,
+  "height": 36,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -263,7 +263,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 32,
-    "yorigin": 32,
+    "yorigin": 18,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sTurret","path":"sprites/sTurret/sTurret.yy",},

@@ -20,7 +20,7 @@ shootTimer -=1/room_speed;
 if(shootTimer<0)
 {
 	shootTimer = 3;
-	var bullet= instance_create_layer(x,y,"Instances",oEnemyProjectile) 
+	var bullet= instance_create_layer(x,y,"Characters_Ground",oEnemyProjectile) 
 	with (bullet)
 	{
 		speed= 7;
