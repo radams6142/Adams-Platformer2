@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 3905,
+  "bbox_right": 0,
   "bbox_top": 0,
-  "bbox_bottom": 999,
+  "bbox_bottom": 0,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 3906,
-  "height": 1000,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"28430da0-086f-4a8c-b579-349ff980850d","path":"sprites/sSky/sSky.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"28430da0-086f-4a8c-b579-349ff980850d","path":"sprites/sSky/sSky.yy",},"LayerId":{"name":"b537761c-5e77-47aa-aaaf-46eca80ad2c3","path":"sprites/sSky/sSky.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sSky","path":"sprites/sSky/sSky.yy",},"resourceVersion":"1.0","name":"28430da0-086f-4a8c-b579-349ff980850d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b7eb0b41-0c86-4f74-8c64-ff3df6204a7c","path":"sprites/sCaveButton/sCaveButton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b7eb0b41-0c86-4f74-8c64-ff3df6204a7c","path":"sprites/sCaveButton/sCaveButton.yy",},"LayerId":{"name":"f61ce543-4f73-4216-a851-eb4b35759e12","path":"sprites/sCaveButton/sCaveButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sCaveButton","path":"sprites/sCaveButton/sCaveButton.yy",},"resourceVersion":"1.0","name":"b7eb0b41-0c86-4f74-8c64-ff3df6204a7c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sSky","path":"sprites/sSky/sSky.yy",},
+    "spriteId": {"name":"sCaveButton","path":"sprites/sCaveButton/sCaveButton.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bae5f433-c143-40dd-9b0e-4bf318df2762","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"28430da0-086f-4a8c-b579-349ff980850d","path":"sprites/sSky/sSky.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3636a7da-0f72-49b6-b7d3-b9d5067d0ae3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b7eb0b41-0c86-4f74-8c64-ff3df6204a7c","path":"sprites/sCaveButton/sCaveButton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sSky","path":"sprites/sSky/sSky.yy",},
+    "parent": {"name":"sCaveButton","path":"sprites/sCaveButton/sCaveButton.yy",},
     "resourceVersion": "1.3",
-    "name": "sSky",
+    "name": "sCaveButton",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b537761c-5e77-47aa-aaaf-46eca80ad2c3","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f61ce543-4f73-4216-a851-eb4b35759e12","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "farm",
-    "path": "folders/Sprites/farm.yy",
+    "name": "buttons",
+    "path": "folders/Sprites/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sSky",
+  "name": "sCaveButton",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -15,7 +15,7 @@
   "VTile": false,
   "For3D": false,
   "width": 46,
-  "height": 80,
+  "height": 90,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -71,7 +71,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 23,
-    "yorigin": 40,
+    "yorigin": 45,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},
