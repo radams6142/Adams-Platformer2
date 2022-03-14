@@ -4,7 +4,9 @@ function stPlayerWalking()
 {
 	MoveX()
 	MoveY()
-
+	instance_destroy(oButtonCave)
+	instance_destroy(oButtonCaveSmall)
+	instance_destroy(oButtonDark)
 	if(place_meeting(x, y+1, Ground) and (jump))
 	{
 		state = states.jumping;
