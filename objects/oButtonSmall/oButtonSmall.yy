@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sButtonCaveSmall",
-    "path": "sprites/sButtonCaveSmall/sButtonCaveSmall.yy",
+    "name": "sButtonSmall",
+    "path": "sprites/sButtonSmall/sButtonSmall.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oButtonCaveSmall",
+  "name": "oButtonSmall",
   "tags": [],
   "resourceType": "GMObject",
 }
