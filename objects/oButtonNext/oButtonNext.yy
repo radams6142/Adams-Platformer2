@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sButtonSmall",
-    "path": "sprites/sButtonSmall/sButtonSmall.yy",
+    "name": "sButtonNext",
+    "path": "sprites/sButtonNext/sButtonNext.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oButtonSmall",
+  "name": "oButtonNext",
   "tags": [],
   "resourceType": "GMObject",
 }

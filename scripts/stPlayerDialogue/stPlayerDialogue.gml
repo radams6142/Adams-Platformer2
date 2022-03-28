@@ -3,9 +3,9 @@
 function stPlayerDialogue(){
 CheckInputs();
 	MoveY();
-		var buttons = instance_create_layer(570,355,"Characters_Ground",oButtonDark) 
-		var buttons = instance_create_layer(483,345,"Characters_Ground",oButtonCave) 
-		var buttons = instance_create_layer(570,355,"Characters_Ground",oButtonSmall) 
+		var buttons = instance_create_layer(483,375,"Characters_Ground",oButtonCave) 
+		var buttons = instance_create_layer(570,375,"Characters_Ground",oButtonNext) 
+		var buttons = instance_create_layer(397,375,"Characters_Ground",oButtonNext)
 	if (xDirection != 0)
 	{
 		state = states.walking;

@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b40296bd-8f5a-49d5-b0b6-57ecfbfdf89f","path":"sprites/sTurret/sTurret.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b40296bd-8f5a-49d5-b0b6-57ecfbfdf89f","path":"sprites/sTurret/sTurret.yy",},"LayerId":{"name":"b591c66a-92e9-42f2-9506-bd473dfb72c5","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sTurret","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","name":"b40296bd-8f5a-49d5-b0b6-57ecfbfdf89f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"eeddd864-0c75-4eea-b310-a531daffc3ed","path":"sprites/sTurret/sTurret.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eeddd864-0c75-4eea-b310-a531daffc3ed","path":"sprites/sTurret/sTurret.yy",},"LayerId":{"name":"b591c66a-92e9-42f2-9506-bd473dfb72c5","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sTurret","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","name":"eeddd864-0c75-4eea-b310-a531daffc3ed","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"81c93e7a-b300-4999-8594-dc56390fb15e","path":"sprites/sTurret/sTurret.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"81c93e7a-b300-4999-8594-dc56390fb15e","path":"sprites/sTurret/sTurret.yy",},"LayerId":{"name":"b591c66a-92e9-42f2-9506-bd473dfb72c5","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sTurret","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","name":"81c93e7a-b300-4999-8594-dc56390fb15e","tags":[],"resourceType":"GMSpriteFrame",},
@@ -197,7 +197,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bb436658-e63d-42d7-9e51-7a40064cbc54","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b40296bd-8f5a-49d5-b0b6-57ecfbfdf89f","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c9e2bfea-b945-490a-9135-593d04f097fd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eeddd864-0c75-4eea-b310-a531daffc3ed","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ec8ed343-a396-4763-be15-c521ae9000df","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"81c93e7a-b300-4999-8594-dc56390fb15e","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"40aafa80-2fb2-4e33-8bcb-fa18d1a97f2f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f6e13f5d-ca39-4eac-9b59-8a73cf2a1e00","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"aa5e8d55-44e0-4643-9b85-733310939972","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fb8cbfbd-b646-4403-8080-e9f3206a8305","path":"sprites/sTurret/sTurret.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},

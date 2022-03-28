@@ -6,7 +6,7 @@
 global.coins = 0;
 global.points = 0;
 
-hp=6;
+hp=3;
 iFrames = false; 
 xSpeed = 4;
 canJump = true;
