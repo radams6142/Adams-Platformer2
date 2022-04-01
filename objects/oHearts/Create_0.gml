@@ -2,5 +2,5 @@
 // You can write your code in this editor
 image_index = 6 
 image_speed = 0 
-xoffset = x - Player.x 
-yoffset = y - Player.y 
+xDifference = x - camera_get_view_x(view_camera[0])
+yDifference = y - camera_get_view_y(view_camera[0])
