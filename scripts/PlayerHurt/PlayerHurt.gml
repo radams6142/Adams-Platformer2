@@ -4,6 +4,7 @@ function PlayerHurt()
 {
 	if (!iFrames)
 	{
+		hit = true
 		iFrames = true;
 		alarm_set(0, 2*room_speed);
 		hp--;

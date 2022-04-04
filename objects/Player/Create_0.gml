@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+hit = false
 
 // global variables
 global.coins = 0;
@@ -11,11 +11,8 @@ iFrames = false;
 xSpeed = 4;
 canJump = true;
 yVector = 0;
-yGravity = .45;
+yGravity = .5;
 jumpForce = -13;
-
-
-
 
 enum states 
 {

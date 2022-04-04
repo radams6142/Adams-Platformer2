@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sFlag",
-    "path": "sprites/sFlag/sFlag.yy",
+    "name": "sFlag2",
+    "path": "sprites/sFlag2/sFlag2.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
