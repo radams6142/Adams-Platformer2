@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sLaser","path":"sprites/sLaser/sLaser.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sLaser",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sUpSpikes","path":"sprites/sUpSpikes/sUpSpikes.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sUpSpikes",
     "tags": [],
     "resourceType": "GMSequence",

@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sButtonDark","path":"sprites/sButtonDark/sButtonDark.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sButtonDark",
     "tags": [],
     "resourceType": "GMSequence",

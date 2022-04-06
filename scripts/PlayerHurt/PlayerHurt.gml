@@ -6,7 +6,7 @@ function PlayerHurt()
 	{
 		hit = true
 		iFrames = true;
-		alarm_set(0, 2*room_speed);
+		alarm_set(0, .2*room_speed);
 		hp--;
 		if (hp<1)
 		{
@@ -22,4 +22,3 @@ function PlayerDeath()
 room_restart ();
 
 }
-

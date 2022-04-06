@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sEnemyBomber","path":"sprites/sEnemyBomber/sEnemyBomber.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sEnemyBomber",
     "tags": [],
     "resourceType": "GMSequence",

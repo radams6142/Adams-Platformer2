@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sUpGround","path":"sprites/sUpGround/sUpGround.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sUpGround",
     "tags": [],
     "resourceType": "GMSequence",

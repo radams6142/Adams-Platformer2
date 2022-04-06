@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMainFloor","path":"sprites/sMainFloor/sMainFloor.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMainFloor",
     "tags": [],
     "resourceType": "GMSequence",

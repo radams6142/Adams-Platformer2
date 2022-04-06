@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFence","path":"sprites/sFence/sFence.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFence",
     "tags": [],
     "resourceType": "GMSequence",

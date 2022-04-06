@@ -174,7 +174,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFlag2","path":"sprites/sFlag2/sFlag2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFlag2",
     "tags": [],
     "resourceType": "GMSequence",

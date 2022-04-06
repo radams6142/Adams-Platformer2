@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPathAlt","path":"sprites/sPathAlt/sPathAlt.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPathAlt",
     "tags": [],
     "resourceType": "GMSequence",

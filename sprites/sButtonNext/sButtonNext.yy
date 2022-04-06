@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sButtonNext","path":"sprites/sButtonNext/sButtonNext.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sButtonNext",
     "tags": [],
     "resourceType": "GMSequence",

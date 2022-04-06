@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sGroundSpikes","path":"sprites/sGroundSpikes/sGroundSpikes.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sGroundSpikes",
     "tags": [],
     "resourceType": "GMSequence",

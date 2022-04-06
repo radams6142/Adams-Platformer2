@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerDialogue",
     "tags": [],
     "resourceType": "GMSequence",

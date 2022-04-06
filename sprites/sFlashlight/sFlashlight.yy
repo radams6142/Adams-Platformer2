@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFlashlight","path":"sprites/sFlashlight/sFlashlight.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFlashlight",
     "tags": [],
     "resourceType": "GMSequence",

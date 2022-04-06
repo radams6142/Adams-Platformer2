@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFenceAlt","path":"sprites/sFenceAlt/sFenceAlt.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFenceAlt",
     "tags": [],
     "resourceType": "GMSequence",

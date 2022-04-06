@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sButtonCave","path":"sprites/sButtonCave/sButtonCave.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sButtonCave",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sStrayRock","path":"sprites/sStrayRock/sStrayRock.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sStrayRock",
     "tags": [],
     "resourceType": "GMSequence",

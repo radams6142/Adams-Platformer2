@@ -267,7 +267,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sTurret","path":"sprites/sTurret/sTurret.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sTurret",
     "tags": [],
     "resourceType": "GMSequence",

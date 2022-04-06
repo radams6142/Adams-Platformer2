@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlantPlayerSplatter","path":"sprites/sPlantPlayerSplatter/sPlantPlayerSplatter.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlantPlayerSplatter",
     "tags": [],
     "resourceType": "GMSequence",

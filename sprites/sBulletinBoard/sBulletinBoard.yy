@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBulletinBoard","path":"sprites/sBulletinBoard/sBulletinBoard.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBulletinBoard",
     "tags": [],
     "resourceType": "GMSequence",

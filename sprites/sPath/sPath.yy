@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPath","path":"sprites/sPath/sPath.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPath",
     "tags": [],
     "resourceType": "GMSequence",
