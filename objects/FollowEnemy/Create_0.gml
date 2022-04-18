@@ -4,13 +4,13 @@
 // movement variables
 xDirection = 1;
 //1= RIGHT, -1= LEFT, 0= NOT MOVING
-xSpeed = 2;
+xSpeed = 1.5;
 xVector = xDirection * xSpeed;
 yGravity = .1;
 yVector = 0 
 
 iFrames = false;
-hp = 2;
+hp = 1;
 iFramesTimer = 2
 /*
 turnTimer =2;

@@ -56,3 +56,5 @@ if(abs(Player.x - Enemy.x) < 128)
 		x=x + xVector 
 		xVector = xVector
 }
+if (distance_to_object(Player) < 25)
+EnemyExplode()
