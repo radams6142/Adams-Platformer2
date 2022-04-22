@@ -28,7 +28,10 @@ function EnemyExplode()
 {
 	if (random_range(0,10)>4)
 	{
+	instance_create_layer(other.x, other.y, "Characters_Ground", oChickenLeg  )
+	{
 	instance_create_layer(other.x, other.y, "Characters_Ground", oEnemyExplosion  )
 	}
 	instance_destroy(other);
 	}
+}
