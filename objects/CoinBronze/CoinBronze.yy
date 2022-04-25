@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sEnemyBomber",
-    "path": "sprites/sEnemyBomber/sEnemyBomber.yy",
+    "name": "sCoinBronze",
+    "path": "sprites/sCoinBronze/sCoinBronze.yy",
   },
   "solid": false,
   "visible": true,
@@ -19,19 +19,21 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":10.0,"y":0.0,},
+    {"x":10.0,"y":18.0,},
+    {"x":0.0,"y":18.0,},
   ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "enemies",
-    "path": "folders/Objects/enemies.yy",
+    "name": "collectibles",
+    "path": "folders/Objects/collectibles.yy",
   },
   "resourceVersion": "1.0",
-  "name": "FollowEnemy",
+  "name": "CoinBronze",
   "tags": [],
   "resourceType": "GMObject",
 }

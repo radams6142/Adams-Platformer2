@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "sEnemy",
-    "path": "sprites/sEnemy/sEnemy.yy",
+    "name": "sTurret",
+    "path": "sprites/sTurret/sTurret.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "EnemyTurret",
+    "path": "objects/EnemyTurret/EnemyTurret.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

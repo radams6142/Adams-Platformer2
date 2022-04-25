@@ -51,8 +51,8 @@ if distance_to_object(Player)<1000{
 }
 
 {
-if(abs(Player.x - Enemy.x) < 128)
-	if (Player.x > Enemy.x)
+if(abs(Player.x - FollowEnemy.x) < 128)
+	if (Player.x > FollowEnemy.x)
 		x=x + xVector 
 		xVector = xVector
 }

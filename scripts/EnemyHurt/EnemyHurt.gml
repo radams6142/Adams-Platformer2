@@ -18,11 +18,17 @@ function EnemyHurt()
 
 function EnemyDeath()
 {
-	if (random_range(0,10)>4)
+	var drop = irandom(99)
+	if (drop < 20)
 	{
-	instance_create_layer(other.x, other.y, "Characters_Ground", Coin  )
+	instance_create_layer(other.x, other.y, "Characters_Ground", CoinGold)
 	}
-	instance_destroy(other);
+	else if (drop > 21 < 40)
+	{
+	instance_create_layer(other.x, other.y, "Characters_Ground", CoinSilver)
+	}
+	instance_destroy(other)
+	
 }
 function EnemyExplode()
 {
@@ -30,8 +36,11 @@ function EnemyExplode()
 	{
 	instance_create_layer(other.x, other.y, "Characters_Ground", oChickenLeg  )
 	{
+	instance_create_layer(other.x, other.y, "Characters_Ground", CoinBronze )
+	{
 	instance_create_layer(other.x, other.y, "Characters_Ground", oEnemyExplosion  )
 	}
 	instance_destroy(other);
+	}
 	}
 }
