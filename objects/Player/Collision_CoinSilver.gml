@@ -3,4 +3,4 @@
 instance_destroy(other);
 global.coins +=2;
 global.points +=200;
-
+audio_play_sound(SndCoinCollect,1,0)

@@ -13,7 +13,6 @@ canJump = true;
 yVector = 0;
 yGravity = .5;
 jumpForce = -13;
-random(99)
 
 enum states 
 {

@@ -1,0 +1,1 @@
+global.drop = 0

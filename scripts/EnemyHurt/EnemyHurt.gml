@@ -18,12 +18,13 @@ function EnemyHurt()
 
 function EnemyDeath()
 {
-	var drop = irandom(99)
-	if (drop < 20)
+	global.points = global.points + 100
+	global.drop = irandom(99)
+	if (global.drop < 20)
 	{
 	instance_create_layer(other.x, other.y, "Characters_Ground", CoinGold)
 	}
-	else if (drop > 21 < 40)
+	else if ( global.drop > 21 and global.drop < 40)
 	{
 	instance_create_layer(other.x, other.y, "Characters_Ground", CoinSilver)
 	}
@@ -40,7 +41,10 @@ function EnemyExplode()
 	{
 	instance_create_layer(other.x, other.y, "Characters_Ground", oEnemyExplosion  )
 	}
+	audio_play_sound(SndExplosion,1,0)
+	{
 	instance_destroy(other);
+	}
 	}
 	}
 }

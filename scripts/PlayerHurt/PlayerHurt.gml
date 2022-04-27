@@ -8,6 +8,7 @@ function PlayerHurt()
 		iFrames = true;
 		alarm_set(0, .2*room_speed);
 		hp--;
+		audio_play_sound(SndPlayerHurt,1,0)
 		if (hp<1)
 		{
 			PlayerDeath();
