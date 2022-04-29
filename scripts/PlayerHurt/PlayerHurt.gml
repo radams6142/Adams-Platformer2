@@ -19,7 +19,8 @@ function PlayerHurt()
 
 function PlayerDeath()
 {
-
+	
+audio_play_sound(SndPlayerDeath,1,0)
 room_restart ();
 
 }

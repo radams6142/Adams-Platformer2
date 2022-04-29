@@ -36,6 +36,7 @@
     {"id":{"name":"CoinSilver","path":"objects/CoinSilver/CoinSilver.yy",},"order":2,},
     {"id":{"name":"EnemyTurret","path":"objects/EnemyTurret/EnemyTurret.yy",},"order":1,},
     {"id":{"name":"sPath","path":"sprites/sPath/sPath.yy",},"order":2,},
+    {"id":{"name":"SndPlayerDeath","path":"sounds/SndPlayerDeath/SndPlayerDeath.yy",},"order":5,},
     {"id":{"name":"oHearts","path":"objects/oHearts/oHearts.yy",},"order":3,},
     {"id":{"name":"oButtonBG","path":"objects/oButtonBG/oButtonBG.yy",},"order":3,},
     {"id":{"name":"oButtonDark","path":"objects/oButtonDark/oButtonDark.yy",},"order":4,},
