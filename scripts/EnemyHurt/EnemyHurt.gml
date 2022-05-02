@@ -18,6 +18,7 @@ function EnemyHurt()
 
 function EnemyDeath()
 {
+	audio_play_sound(SndEnemyDeath,1,0)
 	global.points = global.points + 100
 	global.drop = irandom(99)
 	if (global.drop < 20)

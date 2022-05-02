@@ -1,7 +1,7 @@
 {
   "conversionMode": 0,
   "compression": 0,
-  "volume": 1.0,
+  "volume": 0.25,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -11,14 +11,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "SndEnemyHurt.mp3",
-  "duration": 1.48898,
+  "soundFile": "SndHeal.mp3",
+  "duration": 1.018776,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "SndEnemyHurt",
+  "name": "SndHeal",
   "tags": [],
   "resourceType": "GMSound",
 }

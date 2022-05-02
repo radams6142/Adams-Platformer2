@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "sSunFlower",
-    "path": "sprites/sSunFlower/sSunFlower.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

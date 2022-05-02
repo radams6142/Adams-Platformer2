@@ -21,6 +21,7 @@ function PlayerDeath()
 {
 	
 audio_play_sound(SndPlayerDeath,1,0)
+audio_stop_all()
 room_restart ();
 
 }

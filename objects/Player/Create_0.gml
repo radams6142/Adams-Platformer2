@@ -12,7 +12,7 @@ xSpeed = 4;
 canJump = true;
 yVector = 0;
 yGravity = .5;
-jumpForce = -13;
+jumpForce = -12;
 
 enum states 
 {
