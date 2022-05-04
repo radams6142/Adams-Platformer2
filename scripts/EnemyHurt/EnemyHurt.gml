@@ -3,12 +3,12 @@
 
 function EnemyHurt()
 {
-	if (!other.iFrames)
+	//if (!other.iFrames)
 	{
-		other.iFrames = true;
+		//other.iFrames = true;
 		alarm_set(0, 2*room_speed);
-		other.hp--;
-		if (other.hp <1)
+		//other.hp--;
+	//	if (other.hp <1)
 		{
 			EnemyDeath();
 		}
@@ -29,9 +29,11 @@ function EnemyDeath()
 	{
 	instance_create_layer(other.x, other.y, "Characters_Ground", CoinSilver)
 	}
+	
 	instance_destroy(other)
 	
 }
+
 function EnemyExplode()
 {
 	if (random_range(0,10)>4)

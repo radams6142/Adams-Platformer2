@@ -13,6 +13,7 @@ canJump = true;
 yVector = 0;
 yGravity = .5;
 jumpForce = -12;
+ShootTimer = .3
 
 enum states 
 {
@@ -20,6 +21,7 @@ enum states
 	jumping,
 	idle,
 	dialogue,
+	shooting,
 	
 }
 state = states.idle
@@ -29,7 +31,9 @@ state_array [states.jumping] = stPlayerJumping;
 state_array [states.idle] = stPlayerIdle;
 state_array [states.dialogue] = stPlayerDialogue
 
+	
 sprite_array [states.walking] = sPlayerWalk;
 sprite_array [states.jumping] = sPlayerJump;
 sprite_array [states.idle] = sPlayerIdle;
 sprite_array [states.dialogue] = sPlayerDialogue
+
