@@ -34,6 +34,7 @@
     {"id":{"name":"sPlantPlayerSplatter","path":"sprites/sPlantPlayerSplatter/sPlantPlayerSplatter.yy",},"order":10,},
     {"id":{"name":"spikes","path":"objects/spikes/spikes.yy",},"order":2,},
     {"id":{"name":"sChickenLeg","path":"sprites/sChickenLeg/sChickenLeg.yy",},"order":1,},
+    {"id":{"name":"SndShoot","path":"sounds/SndShoot/SndShoot.yy",},"order":9,},
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},"order":9,},
     {"id":{"name":"CoinSilver","path":"objects/CoinSilver/CoinSilver.yy",},"order":2,},
     {"id":{"name":"EnemyTurret","path":"objects/EnemyTurret/EnemyTurret.yy",},"order":1,},

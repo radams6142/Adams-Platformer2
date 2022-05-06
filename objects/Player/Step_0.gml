@@ -15,6 +15,7 @@ if (y>= room_height)
 ShootTimer -=1/room_speed;
 if shooting and (ShootTimer<0)
 {
+	audio_play_sound(SndShoot,1,0)
 	ShootTimer = .3;
 	var bullet= instance_create_layer(x,y,"Characters_Ground",oPlayerBullet) 
 	with (bullet)
