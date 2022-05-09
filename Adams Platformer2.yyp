@@ -56,6 +56,7 @@
     {"id":{"name":"oButtonBlank","path":"objects/oButtonBlank/oButtonBlank.yy",},"order":2,},
     {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},"order":14,},
     {"id":{"name":"SndCoinCollect","path":"sounds/SndCoinCollect/SndCoinCollect.yy",},"order":0,},
+    {"id":{"name":"sPlayerShooting","path":"sprites/sPlayerShooting/sPlayerShooting.yy",},"order":8,},
     {"id":{"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"order":5,},
     {"id":{"name":"Slope","path":"objects/Slope/Slope.yy",},"order":1,},
     {"id":{"name":"oButtonCave","path":"objects/oButtonCave/oButtonCave.yy",},"order":1,},
