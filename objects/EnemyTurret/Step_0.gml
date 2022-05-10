@@ -23,7 +23,7 @@ if(shootTimer<0)
 	var bullet= instance_create_layer(x,y,"Characters_Ground",oEnemyProjectile) 
 	with (bullet)
 	{
-		speed= 7;
+		speed= 6;
 		direction= point_direction(x, y, Player.x, Player.y)
 	}
 	

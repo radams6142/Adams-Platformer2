@@ -13,7 +13,7 @@ canJump = true;
 yVector = 0;
 yGravity = .5;
 jumpForce = -12;
-ShootTimer = .3
+ShootTimer = 1
 
 enum states 
 {

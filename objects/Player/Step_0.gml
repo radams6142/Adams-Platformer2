@@ -20,7 +20,7 @@ if shooting and (ShootTimer<0)
 	var bullet= instance_create_layer(x,y,"Characters_Ground",oPlayerBullet) 
 	with (bullet)
 	{
-		speed= 8;
+		speed= 7;
 		direction= point_direction(x, y, Player.x, Player.y)
 	}
 }

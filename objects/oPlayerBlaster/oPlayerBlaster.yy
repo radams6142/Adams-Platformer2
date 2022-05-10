@@ -21,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "HUD",
-    "path": "folders/Objects/HUD.yy",
+    "name": "player",
+    "path": "folders/Objects/player.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oCoinCounter",
+  "name": "oPlayerBlaster",
   "tags": [],
   "resourceType": "GMObject",
 }
