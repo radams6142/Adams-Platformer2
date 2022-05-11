@@ -101,8 +101,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "player",
-    "path": "folders/Sprites/player.yy",
+    "name": "PlayerWeapons",
+    "path": "folders/Sprites/player/PlayerWeapons.yy",
   },
   "resourceVersion": "1.0",
   "name": "sPlayerBullet",

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sPlayerBlaster",
-    "path": "sprites/sPlayerBlaster/sPlayerBlaster.yy",
+    "name": "sPlayerLaser",
+    "path": "sprites/sPlayerLaser/sPlayerLaser.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/player.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oPlayerBlaster",
+  "name": "oPlayerLaser",
   "tags": [],
   "resourceType": "GMObject",
 }
