@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "player",
-    "path": "folders/Objects/player.yy",
+    "name": "PlayerWeapons",
+    "path": "folders/Objects/player/PlayerWeapons.yy",
   },
   "resourceVersion": "1.0",
   "name": "oPlayerBullet",

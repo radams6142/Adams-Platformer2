@@ -1,7 +1,7 @@
 {
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.2,
+  "volume": 0.3,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -11,14 +11,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "SndShoot.mp3",
-  "duration": 2.45551,
+  "soundFile": "SndBlaster.mp3",
+  "duration": 1.044898,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "SndShoot",
+  "name": "SndBlaster",
   "tags": [],
   "resourceType": "GMSound",
 }
