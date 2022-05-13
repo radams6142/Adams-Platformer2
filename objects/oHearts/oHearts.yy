@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "player",
-    "path": "folders/Objects/player.yy",
+    "name": "HUD",
+    "path": "folders/Objects/HUD.yy",
   },
   "resourceVersion": "1.0",
   "name": "oHearts",

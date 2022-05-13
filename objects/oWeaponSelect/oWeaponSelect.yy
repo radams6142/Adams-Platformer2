@@ -21,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "farm",
-    "path": "folders/Objects/farm.yy",
+    "name": "HUD",
+    "path": "folders/Objects/HUD.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oSunFlower",
+  "name": "oWeaponSelect",
   "tags": [],
   "resourceType": "GMObject",
 }
