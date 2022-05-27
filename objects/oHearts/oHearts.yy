@@ -3,7 +3,7 @@
     "name": "sHearts",
     "path": "sprites/sHearts/sHearts.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

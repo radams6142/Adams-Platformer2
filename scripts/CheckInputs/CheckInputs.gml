@@ -2,11 +2,11 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function CheckInputs(){
 
-right = keyboard_check(vk_right);
-left = keyboard_check(vk_left);
-jump = keyboard_check_pressed(vk_space);
+right = keyboard_check(ord("D"))
+left = keyboard_check(ord("A"))
+jump = keyboard_check_pressed(vk_up);
 interact = keyboard_check_pressed(vk_enter)
-shooting = keyboard_check_pressed(vk_alt)
+shooting = keyboard_check_pressed(vk_left)
 
 xDirection = right - left;
 }

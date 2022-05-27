@@ -94,7 +94,7 @@
   },
   "parent": {
     "name": "farm",
-    "path": "folders/Sprites/farm.yy",
+    "path": "folders/Sprites/buttons/farm.yy",
   },
   "resourceVersion": "1.0",
   "name": "sBulletinBoard",
