@@ -14,6 +14,7 @@ yVector = 0;
 yGravity = .5;
 jumpForce = -12;
 ShootTimer = 1
+pickupgun = false
 
 enum states 
 {

@@ -46,6 +46,8 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oSpikeExplosion","path":"objects/oSpikeExplosion/oSpikeExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oFallingSpike","path":"objects/oFallingSpike/oFallingSpike.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oExplosives","path":"objects/oExplosives/oExplosives.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oGunPickup","path":"objects/oGunPickup/oGunPickup.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

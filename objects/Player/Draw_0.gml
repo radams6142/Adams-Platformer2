@@ -8,3 +8,18 @@ if (hit) {
 } else {
     draw_self(); 
 }
+
+draw_set_font(Narrator)
+{
+if (pickupgun = true)
+draw_text(Player.x,Player.y -100, "You're trusty six-shooter!")
+alarm[4] = 50
+}
+{
+if (pickupgun = true)
+draw_text(Player.x,Player.y -50, "<- To shoot")
+}
+{
+if (pickupgun = true)
+draw_text(Player.x,Player.y -75, "You're gonna need it.")
+}
