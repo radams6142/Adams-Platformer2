@@ -6,6 +6,7 @@ CheckInputs();
 		var buttons = instance_create_layer(483,375,"Characters_Ground",oButtonCave) 
 		var buttons = instance_create_layer(570,375,"Characters_Ground",oButtonNext) 
 		var buttons = instance_create_layer(397,375,"Characters_Ground",oButtonNext)
+		
 	if (xDirection != 0)
 	{
 		state = states.walking;

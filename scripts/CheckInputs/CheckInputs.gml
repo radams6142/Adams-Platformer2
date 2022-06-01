@@ -5,7 +5,7 @@ function CheckInputs(){
 right = keyboard_check(ord("D"))
 left = keyboard_check(ord("A"))
 jump = keyboard_check_pressed(vk_up);
-interact = keyboard_check_pressed(vk_enter)
+interact = keyboard_check_pressed(vk_down)
 shooting = keyboard_check_pressed(vk_left)
 
 xDirection = right - left;

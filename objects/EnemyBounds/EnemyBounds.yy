@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Title",
-    "path": "sprites/Title/Title.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -24,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "splashscreen",
-    "path": "folders/Objects/splashscreen.yy",
+    "name": "cave",
+    "path": "folders/Objects/cave.yy",
   },
   "resourceVersion": "1.0",
-  "name": "FowlPlay",
+  "name": "EnemyBounds",
   "tags": [],
   "resourceType": "GMObject",
 }
