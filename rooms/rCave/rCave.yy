@@ -22,6 +22,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oExplosives","path":"objects/oExplosives/oExplosives.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1903.0,"y":543.0,"resourceVersion":"1.0","name":"inst_7AFA18C0","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oFallingSpike","path":"objects/oFallingSpike/oFallingSpike.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2746.0,"y":379.0,"resourceVersion":"1.0","name":"inst_1163E1C7","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oExplosives","path":"objects/oExplosives/oExplosives.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2750.0,"y":546.0,"resourceVersion":"1.0","name":"inst_6260CC78","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oFlag2","path":"objects/oFlag2/oFlag2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":-3.35800481,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":48.0,"y":539.0,"resourceVersion":"1.0","name":"inst_7E8789EC","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":-90,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":1,"gridY":1,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"GunLayer","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"EnemyTurret","path":"objects/EnemyTurret/EnemyTurret.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":true,"inheritItemSettings":false,"x":450.0,"y":416.5,"resourceVersion":"1.0","name":"inst_5F380677","tags":[],"resourceType":"GMRInstance",},
@@ -241,6 +242,7 @@
     {"name":"inst_6260CC78","path":"rooms/rCave/rCave.yy",},
     {"name":"inst_6996E828","path":"rooms/rCave/rCave.yy",},
     {"name":"inst_5A14408D","path":"rooms/rCave/rCave.yy",},
+    {"name":"inst_7E8789EC","path":"rooms/rCave/rCave.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
