@@ -32,7 +32,6 @@ state_array [states.jumping] = stPlayerJumping;
 state_array [states.idle] = stPlayerIdle;
 state_array [states.dialogue] = stPlayerDialogue
 
-	
 sprite_array [states.walking] = sPlayerWalk;
 sprite_array [states.jumping] = sPlayerJump;
 sprite_array [states.idle] = sPlayerIdle;
