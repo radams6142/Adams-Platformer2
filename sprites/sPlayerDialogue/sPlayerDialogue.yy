@@ -14,8 +14,8 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 46,
-  "height": 90,
+  "width": 51,
+  "height": 100,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -27,18 +27,6 @@
     {"compositeImage":{"FrameId":{"name":"14e0b371-2674-4d70-b834-b1f8dafb6218","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"14e0b371-2674-4d70-b834-b1f8dafb6218","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":{"name":"3567a5ce-3f0c-4eef-83bc-796334e39c85","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"14e0b371-2674-4d70-b834-b1f8dafb6218","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"19da0ff4-8baa-4f5d-bfdb-342fdb6de2f5","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"19da0ff4-8baa-4f5d-bfdb-342fdb6de2f5","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":{"name":"3567a5ce-3f0c-4eef-83bc-796334e39c85","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"19da0ff4-8baa-4f5d-bfdb-342fdb6de2f5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"447ca260-6b51-4af7-9205-b093d156b4f8","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"447ca260-6b51-4af7-9205-b093d156b4f8","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":{"name":"3567a5ce-3f0c-4eef-83bc-796334e39c85","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"447ca260-6b51-4af7-9205-b093d156b4f8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"03074d7a-ab36-4bcf-a551-3bd46c463dbc","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"03074d7a-ab36-4bcf-a551-3bd46c463dbc","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":{"name":"3567a5ce-3f0c-4eef-83bc-796334e39c85","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"03074d7a-ab36-4bcf-a551-3bd46c463dbc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6e6be30c-477b-4313-8882-f0e6c48ecad3","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6e6be30c-477b-4313-8882-f0e6c48ecad3","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"LayerId":{"name":"3567a5ce-3f0c-4eef-83bc-796334e39c85","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","name":"6e6be30c-477b-4313-8882-f0e6c48ecad3","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},
@@ -48,16 +36,12 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 5.0,
+    "length": 1.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"360b2dcf-fa46-477c-91e1-ed86c4dc2a99","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"14e0b371-2674-4d70-b834-b1f8dafb6218","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"06ed26f5-cd79-4ddb-9c16-d9bf67338689","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"19da0ff4-8baa-4f5d-bfdb-342fdb6de2f5","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"882c8af6-843a-4b0e-bc5f-56c4281d0616","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"447ca260-6b51-4af7-9205-b093d156b4f8","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"b5227fa0-a20f-4803-bfb6-55b3e1c79bd1","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"03074d7a-ab36-4bcf-a551-3bd46c463dbc","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"f3f77780-0664-4dc8-b14b-1b4f024a13ee","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6e6be30c-477b-4313-8882-f0e6c48ecad3","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -70,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 23,
-    "yorigin": 45,
+    "xorigin": 25,
+    "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerDialogue","path":"sprites/sPlayerDialogue/sPlayerDialogue.yy",},
