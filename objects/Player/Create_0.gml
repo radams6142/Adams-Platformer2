@@ -8,7 +8,7 @@ global.points = 0;
 
 hp=6;
 iFrames = false; 
-xSpeed = 4;
+xSpeed = 3;
 canJump = true;
 yVector = 0;
 yGravity = .5;
