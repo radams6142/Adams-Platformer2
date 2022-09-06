@@ -12,7 +12,7 @@ xSpeed = 3;
 canJump = true;
 yVector = 0;
 yGravity = .5;
-jumpForce = -12;
+jumpForce = -10;
 ShootTimer = 1
 pickupgun = false
 
