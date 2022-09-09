@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+if (global.shop) exit
+
 //states
 script_execute (state_array[state]);
 sprite_index = sprite_array[state];

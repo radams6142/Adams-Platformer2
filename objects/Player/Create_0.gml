@@ -5,6 +5,7 @@ hit = false
 // global variables
 global.coins = 0;
 global.points = 0;
+global.inventory = ds_list_create()
 
 hp=6;
 iFrames = false; 
