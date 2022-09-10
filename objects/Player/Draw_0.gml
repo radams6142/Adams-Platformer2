@@ -27,5 +27,8 @@ if (pickupgun = true)
 draw_text(Player.x,Player.y -75, "You're gonna need it.")
 }
 
-for (var inventory=0<ds_list_size(global.inventory); inventory++;
-	draw_text(x, y+inventory*30, global.inventory [inventory]);
+{
+for (var inventory=0; inventory<ds_list_size(global.inventory); inventory++){
+	
+}
+}
