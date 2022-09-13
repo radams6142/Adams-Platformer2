@@ -1,4 +1,4 @@
-draw_set_font(Controls)
+draw_set_font(Dialogue)
 draw_text(15,25, "Left & Right = Joystick")
 draw_text(15,50, "Jump = Up Arrow")
 draw_text(15,75, "Shoot = Left Arrow")

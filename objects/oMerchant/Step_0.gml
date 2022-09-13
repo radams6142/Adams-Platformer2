@@ -28,9 +28,16 @@ if (shopOpen){
 	var price = arr[1];
 	
 	if (keyboard_check_pressed(vk_enter) && global.coins >= price) {
-		ds_list_add(global.inventory, item);
 		
-		global.coins -= price;
+	if (keyboard_check_pressed(vk_enter)) && item = "Drumstick"
+	instance_create_layer(260, 140, "Characters_Ground", oItem_Drumstick)
+	
+	if (keyboard_check_pressed(vk_enter)) && item = "2"
+	instance_create_layer(260, 140, "Characters_Ground", oPlayerLaser)
+	
+	if (keyboard_check_pressed(vk_enter)) && item = "3"
+	instance_create_layer(260, 140, "Characters_Ground", oPlayerBullet)
 		
+	global.coins = global.coins-price
 }
 }
