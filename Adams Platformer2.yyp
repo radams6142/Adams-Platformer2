@@ -107,6 +107,7 @@
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":0,},
     {"id":{"name":"SndRumble","path":"sounds/SndRumble/SndRumble.yy",},"order":7,},
     {"id":{"name":"sCoinSilver","path":"sprites/sCoinSilver/sCoinSilver.yy",},"order":2,},
+    {"id":{"name":"sNoirBG3","path":"sprites/sNoirBG3/sNoirBG3.yy",},"order":5,},
     {"id":{"name":"Ground","path":"objects/Ground/Ground.yy",},"order":0,},
     {"id":{"name":"sHearts","path":"sprites/sHearts/sHearts.yy",},"order":6,},
     {"id":{"name":"oGroundPlant","path":"objects/oGroundPlant/oGroundPlant.yy",},"order":6,},
@@ -237,7 +238,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.3.0.625",
+    "IDEVersion": "2022.3.0.624",
   },
   "resourceVersion": "1.5",
   "name": "Adams Platformer2",

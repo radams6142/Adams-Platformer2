@@ -32,7 +32,7 @@
     "spriteId": {"name":"sNoirBG2","path":"sprites/sNoirBG2/sNoirBG2.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 8.0,
+    "playbackSpeed": 1.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

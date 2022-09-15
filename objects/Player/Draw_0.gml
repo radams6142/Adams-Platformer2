@@ -11,24 +11,4 @@ if (hit) {
 
 draw_set_font(Dialogue)
 
-{
-if (pickupgun = true)
-draw_text(Player.x,Player.y -100, "Your trusty six-shooter!")
-alarm[4] = 50
-}
 
-{
-if (pickupgun = true)
-draw_text(Player.x,Player.y -50, "<- To shoot")
-}
-
-{
-if (pickupgun = true)
-draw_text(Player.x,Player.y -75, "You're gonna need it.")
-}
-
-{
-//for (var inventory=0; inventory<ds_list_size(global.inventory); inventory++){
-	
-}
-//}

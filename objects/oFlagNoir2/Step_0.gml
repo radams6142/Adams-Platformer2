@@ -1,2 +1,3 @@
 if image_index = 9
-	instance_destroy(self)
+	image_speed = 0
+	
