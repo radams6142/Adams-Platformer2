@@ -1,6 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 hit = false
+if room=rNoir 
+	shader_set(shNoir)
+
+if room!=rNoir
+shader_reset()
 
 // global variables
 global.coins = 0;

@@ -19,7 +19,7 @@ function EnemyHurt()
 function EnemyDeath()
 {
 	audio_play_sound(SndEnemyDeath,1,0)
-	global.points = global.points + 100
+	global.points = global.points + 20
 	global.drop = irandom(99)
 	if (global.drop < 20)
 	{
@@ -38,7 +38,7 @@ function EnemyExplode()
 {
 	if (random_range(0,10)>4)
 	{
-	instance_create_layer(other.x, other.y, "Characters_Ground", oChickenLeg  )
+	instance_create_layer(other.x, other.y, "Characters_Ground", oItem_Drumstick )
 	{
 	instance_create_layer(other.x, other.y, "Characters_Ground", CoinBronze )
 	{
