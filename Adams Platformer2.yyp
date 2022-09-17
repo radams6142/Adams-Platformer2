@@ -62,6 +62,7 @@
     {"id":{"name":"SndPlayerDeath","path":"sounds/SndPlayerDeath/SndPlayerDeath.yy",},"order":5,},
     {"id":{"name":"oHearts","path":"objects/oHearts/oHearts.yy",},"order":4,},
     {"id":{"name":"oButtonBG","path":"objects/oButtonBG/oButtonBG.yy",},"order":3,},
+    {"id":{"name":"sJungleBG3","path":"sprites/sJungleBG3/sJungleBG3.yy",},"order":1,},
     {"id":{"name":"oExplosives","path":"objects/oExplosives/oExplosives.yy",},"order":11,},
     {"id":{"name":"sFlagGold","path":"sprites/sFlagGold/sFlagGold.yy",},"order":3,},
     {"id":{"name":"EnemyBounds","path":"objects/EnemyBounds/EnemyBounds.yy",},"order":12,},
@@ -113,6 +114,7 @@
     {"id":{"name":"oGroundPlant","path":"objects/oGroundPlant/oGroundPlant.yy",},"order":6,},
     {"id":{"name":"oButtonNext","path":"objects/oButtonNext/oButtonNext.yy",},"order":5,},
     {"id":{"name":"sUpSpikes","path":"sprites/sUpSpikes/sUpSpikes.yy",},"order":5,},
+    {"id":{"name":"sJungleBG4","path":"sprites/sJungleBG4/sJungleBG4.yy",},"order":0,},
     {"id":{"name":"oGunPickup","path":"objects/oGunPickup/oGunPickup.yy",},"order":4,},
     {"id":{"name":"CoinGold","path":"objects/CoinGold/CoinGold.yy",},"order":0,},
     {"id":{"name":"Move","path":"scripts/Move/Move.yy",},"order":6,},
@@ -133,6 +135,7 @@
     {"id":{"name":"SndMusic","path":"sounds/SndMusic/SndMusic.yy",},"order":11,},
     {"id":{"name":"oWeaponSelect","path":"objects/oWeaponSelect/oWeaponSelect.yy",},"order":3,},
     {"id":{"name":"oAngleSpikes","path":"objects/oAngleSpikes/oAngleSpikes.yy",},"order":3,},
+    {"id":{"name":"rJungle","path":"rooms/rJungle/rJungle.yy",},"order":4,},
     {"id":{"name":"sFallingSpike","path":"sprites/sFallingSpike/sFallingSpike.yy",},"order":10,},
     {"id":{"name":"sMerchant","path":"sprites/sMerchant/sMerchant.yy",},"order":8,},
     {"id":{"name":"sFlashlight","path":"sprites/sFlashlight/sFlashlight.yy",},"order":0,},
@@ -190,6 +193,7 @@
     {"roomId":{"name":"rFarm","path":"rooms/rFarm/rFarm.yy",},},
     {"roomId":{"name":"rCave","path":"rooms/rCave/rCave.yy",},},
     {"roomId":{"name":"rNoir","path":"rooms/rNoir/rNoir.yy",},},
+    {"roomId":{"name":"rJungle","path":"rooms/rJungle/rJungle.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -229,6 +233,7 @@
     {"folderPath":"folders/Objects/Desert.yy","order":9,"resourceVersion":"1.0","name":"Desert","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Noir.yy","order":9,"resourceVersion":"1.0","name":"Noir","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Noir.yy","order":10,"resourceVersion":"1.0","name":"Noir","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Jungle.yy","order":10,"resourceVersion":"1.0","name":"Jungle","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -238,7 +243,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.3.0.624",
+    "IDEVersion": "2022.3.0.625",
   },
   "resourceVersion": "1.5",
   "name": "Adams Platformer2",
