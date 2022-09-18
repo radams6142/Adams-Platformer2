@@ -27,13 +27,14 @@ if (shopOpen){
 	var item = arr[0];
 	//var reward = arr[1];
 	
+	
 	if (keyboard_check_pressed(vk_enter)) && item = "Cave"
 	instance_create_layer(548, 128, "Characters_Ground", oFlag)
 	
 	if (keyboard_check_pressed(vk_enter)) && item = "Noir"
 	instance_create_layer(548, 128, "Characters_Ground", oFlagNoir)
 	
-	if (keyboard_check_pressed(vk_enter)) && item = "Gold City"
-	instance_create_layer(548, 128, "Characters_Ground", oFlagGold)
+	if (keyboard_check_pressed(vk_enter)) && item = "Jungle"
+	instance_create_layer(548, 128, "Characters_Ground", oFlagJungle)
 	
 }

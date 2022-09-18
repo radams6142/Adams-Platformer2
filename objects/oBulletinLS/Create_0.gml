@@ -13,7 +13,7 @@ ds_list_add(items, ["60s Futuristic", 300, "Description 4"]);
 ds_list_add(items, ["Cyberpunk", 300, "Description 5"]);
 ds_list_add(items, ["Steampunk London", 300, "Description 6"]);
 ds_list_add(items, ["Wild West", 300, "Description 7"]);
-ds_list_add(items, ["Jungle", 300, "Retrieve the ancien artifact"]);
+ds_list_add(items, ["Jungle", 300, "Retrieve the ancient artifact"]);
 
 itemcount = ds_list_size(items);
 
