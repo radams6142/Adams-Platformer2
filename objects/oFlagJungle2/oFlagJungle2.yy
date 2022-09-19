@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sFlagGold",
-    "path": "sprites/sFlagGold/sFlagGold.yy",
+    "name": "sFlagJungle",
+    "path": "sprites/sFlagJungle/sFlagJungle.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects/flags.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oFlagGold",
+  "name": "oFlagJungle2",
   "tags": [],
   "resourceType": "GMObject",
 }

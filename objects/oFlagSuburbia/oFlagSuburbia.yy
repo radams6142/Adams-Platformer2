@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sFlagNoir",
-    "path": "sprites/sFlagNoir/sFlagNoir.yy",
+    "name": "sFlagGold",
+    "path": "sprites/sFlagGold/sFlagGold.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects/flags.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oFlag2",
+  "name": "oFlagSuburbia",
   "tags": [],
   "resourceType": "GMObject",
 }
