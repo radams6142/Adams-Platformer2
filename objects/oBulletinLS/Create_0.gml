@@ -10,7 +10,7 @@ ds_list_add(items, ["Cave", 100, "Defeat all enemies"]);
 ds_list_add(items, ["Noir", 200, "Retrieve the artifact"]);
 ds_list_add(items, ["Suburbia", 300, "Spot the difference"]);
 ds_list_add(items, ["60s Futuristic", 300, "Description 4"]);
-ds_list_add(items, ["Cyberpunk", 300, "Description 5"]);
+ds_list_add(items, ["Cyberpunk", 300, "Retrieve the lost tech implant"]);
 ds_list_add(items, ["Steampunk London", 300, "Description 6"]);
 ds_list_add(items, ["Wild West", 300, "Description 7"]);
 ds_list_add(items, ["Jungle", 300, "Retrieve the ancient artifact"]);

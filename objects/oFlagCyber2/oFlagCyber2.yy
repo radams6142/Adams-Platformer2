@@ -30,7 +30,7 @@
     "path": "folders/Objects/flags.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oFlagSuburbia",
+  "name": "oFlagCyber2",
   "tags": [],
   "resourceType": "GMObject",
 }

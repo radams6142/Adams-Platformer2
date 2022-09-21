@@ -27,17 +27,13 @@ if (shopOpen){
 	var item = arr[0];
 	//var reward = arr[1];
 	
-	
-	if (keyboard_check_pressed(vk_enter)) && item = "Cave"
-	instance_create_layer(548, 128, "Characters_Ground", oFlag)
-	
 	if (keyboard_check_pressed(vk_enter)) && item = "Noir"
 	instance_create_layer(548, 128, "Characters_Ground", oFlagNoir)
 	
 	if (keyboard_check_pressed(vk_enter)) && item = "Jungle"
 	instance_create_layer(548, 128, "Characters_Ground", oFlagJungle)
 	
-	if (keyboard_check_pressed(vk_enter)) && item = "Suburbia"
-	instance_create_layer(548, 128, "Characters_Ground", oFlagSuburbia)
+	if (keyboard_check_pressed(vk_enter)) && item = "Cyberpunk"
+	instance_create_layer(548, 128, "Characters_Ground", oFlagCyber)
 	
 }
