@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 349,
+  "bbox_right": 31,
   "bbox_top": 0,
-  "bbox_bottom": 191,
+  "bbox_bottom": 31,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 350,
-  "height": 192,
+  "width": 32,
+  "height": 32,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,15 +24,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8a19bfb1-bc8d-44b5-b9a2-77e63d65391e","path":"sprites/sCyberBG2/sCyberBG2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8a19bfb1-bc8d-44b5-b9a2-77e63d65391e","path":"sprites/sCyberBG2/sCyberBG2.yy",},"LayerId":{"name":"3423f2d2-7644-4104-89ac-58f4c090d4cc","path":"sprites/sCyberBG2/sCyberBG2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sCyberBG2","path":"sprites/sCyberBG2/sCyberBG2.yy",},"resourceVersion":"1.0","name":"8a19bfb1-bc8d-44b5-b9a2-77e63d65391e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"db074cf0-2a84-46fc-b175-b6a8e7019a87","path":"sprites/sCyberGround/sCyberGround.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"db074cf0-2a84-46fc-b175-b6a8e7019a87","path":"sprites/sCyberGround/sCyberGround.yy",},"LayerId":{"name":"f66baaa0-9db7-4dc5-9da4-c31519b9b242","path":"sprites/sCyberGround/sCyberGround.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sCyberGround","path":"sprites/sCyberGround/sCyberGround.yy",},"resourceVersion":"1.0","name":"db074cf0-2a84-46fc-b175-b6a8e7019a87","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sCyberBG2","path":"sprites/sCyberBG2/sCyberBG2.yy",},
+    "spriteId": {"name":"sCyberGround","path":"sprites/sCyberGround/sCyberGround.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 8.0,
+    "playbackSpeed": 30.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"f010764c-6661-4250-9ebb-3084605a6ef6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8a19bfb1-bc8d-44b5-b9a2-77e63d65391e","path":"sprites/sCyberBG2/sCyberBG2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5bf1b676-a4bb-4377-91f9-f34075e53bb0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"db074cf0-2a84-46fc-b175-b6a8e7019a87","path":"sprites/sCyberGround/sCyberGround.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sCyberBG2","path":"sprites/sCyberBG2/sCyberBG2.yy",},
+    "parent": {"name":"sCyberGround","path":"sprites/sCyberGround/sCyberGround.yy",},
     "resourceVersion": "1.4",
-    "name": "sCyberBG2",
+    "name": "sCyberGround",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3423f2d2-7644-4104-89ac-58f4c090d4cc","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f66baaa0-9db7-4dc5-9da4-c31519b9b242","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Cyber.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sCyberBG2",
+  "name": "sCyberGround",
   "tags": [],
   "resourceType": "GMSprite",
 }
