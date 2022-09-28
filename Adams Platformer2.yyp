@@ -3,6 +3,7 @@
     {"id":{"name":"sGroundPlant","path":"sprites/sGroundPlant/sGroundPlant.yy",},"order":7,},
     {"id":{"name":"sPlantPotPink","path":"sprites/sPlantPotPink/sPlantPotPink.yy",},"order":9,},
     {"id":{"name":"oScreenShake","path":"objects/oScreenShake/oScreenShake.yy",},"order":3,},
+    {"id":{"name":"sFlagCyber","path":"sprites/sFlagCyber/sFlagCyber.yy",},"order":7,},
     {"id":{"name":"oTree1","path":"objects/oTree1/oTree1.yy",},"order":9,},
     {"id":{"name":"sControlsBG","path":"sprites/sControlsBG/sControlsBG.yy",},"order":1,},
     {"id":{"name":"oBulletinBoard","path":"objects/oBulletinBoard/oBulletinBoard.yy",},"order":6,},

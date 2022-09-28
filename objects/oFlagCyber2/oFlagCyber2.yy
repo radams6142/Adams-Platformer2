@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sFlagGold",
-    "path": "sprites/sFlagGold/sFlagGold.yy",
+    "name": "sFlagCyber",
+    "path": "sprites/sFlagCyber/sFlagCyber.yy",
   },
   "solid": false,
   "visible": true,
