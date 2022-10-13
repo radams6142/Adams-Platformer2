@@ -36,4 +36,7 @@ if (shopOpen){
 	if (keyboard_check_pressed(vk_enter)) && item = "Cyberpunk"
 	instance_create_layer(548, 128, "Characters_Ground", oFlagCyber)
 	
+	if (keyboard_check_pressed(vk_enter)) && item = "Steampunk"
+	instance_create_layer(548, 128, "Characters_Ground", oFlagSteam)
+	
 }
