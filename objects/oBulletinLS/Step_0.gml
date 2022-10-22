@@ -29,11 +29,14 @@ if (shopOpen){
 	
 	if (keyboard_check_pressed(vk_enter)) && item = "Noir"
 	instance_create_layer(548, 128, "Characters_Ground", oFlagNoir)
-	
+
 	if (keyboard_check_pressed(vk_enter)) && item = "Jungle"
 	instance_create_layer(548, 128, "Characters_Ground", oFlagJungle)
 	
 	if (keyboard_check_pressed(vk_enter)) && item = "Cyberpunk"
 	instance_create_layer(548, 128, "Characters_Ground", oFlagCyber)
+	
+	if (keyboard_check_pressed(vk_enter)) && item = "Steampunk"
+	instance_create_layer(548, 128, "Characters_Ground", oFlagSteam)
 	
 }
