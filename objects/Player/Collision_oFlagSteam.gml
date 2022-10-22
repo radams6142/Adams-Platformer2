@@ -1,1 +1,1 @@
-room_goto(rSteampunk)
+room_goto(rSteamPunk)
