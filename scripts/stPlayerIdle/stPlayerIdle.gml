@@ -14,4 +14,10 @@ if(place_meeting(x, y+1, Ground) and (jump))
 	{
 		state = states.jumping;
 	}
+if(keyboard_check_pressed(ord("F")))
+	{
+	state = states.attack;
+	
+	}
+
 }

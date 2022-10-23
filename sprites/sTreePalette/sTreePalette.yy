@@ -82,7 +82,7 @@
   "nineSlice": null,
   "parent": {
     "name": "farm",
-    "path": "folders/Sprites/farm.yy",
+    "path": "folders/Sprites/Jungle/farm.yy",
   },
   "resourceVersion": "1.0",
   "name": "sTreePalette",
