@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sJungleGround2",
-    "path": "sprites/sJungleGround2/sJungleGround2.yy",
+    "name": "sJungleGroundHalf",
+    "path": "sprites/sJungleGroundHalf/sJungleGroundHalf.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Jungle.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oJungleGround2",
+  "name": "oJungleGroundHalf",
   "tags": [],
   "resourceType": "GMObject",
 }

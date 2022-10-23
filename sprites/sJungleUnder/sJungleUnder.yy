@@ -9,13 +9,13 @@
   "swfPrecision": 2.525,
   "bbox_left": 0,
   "bbox_right": 31,
-  "bbox_top": 1,
-  "bbox_bottom": 31,
+  "bbox_top": 0,
+  "bbox_bottom": 15,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 32,
-  "height": 32,
+  "height": 16,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e2bc3260-efc7-4e83-aeef-70fd6d96d8a6","path":"sprites/sJungleGround2/sJungleGround2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e2bc3260-efc7-4e83-aeef-70fd6d96d8a6","path":"sprites/sJungleGround2/sJungleGround2.yy",},"LayerId":{"name":"fb38bcab-5b2f-4ebb-a80d-0e2940ef5b83","path":"sprites/sJungleGround2/sJungleGround2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sJungleGround2","path":"sprites/sJungleGround2/sJungleGround2.yy",},"resourceVersion":"1.0","name":"e2bc3260-efc7-4e83-aeef-70fd6d96d8a6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4565e4b9-7a10-46a9-8365-1ca39ccc1d34","path":"sprites/sJungleUnder/sJungleUnder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4565e4b9-7a10-46a9-8365-1ca39ccc1d34","path":"sprites/sJungleUnder/sJungleUnder.yy",},"LayerId":{"name":"9a7d19bc-df07-4106-93e0-bd078d305277","path":"sprites/sJungleUnder/sJungleUnder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sJungleUnder","path":"sprites/sJungleUnder/sJungleUnder.yy",},"resourceVersion":"1.0","name":"4565e4b9-7a10-46a9-8365-1ca39ccc1d34","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sJungleGround2","path":"sprites/sJungleGround2/sJungleGround2.yy",},
+    "spriteId": {"name":"sJungleUnder","path":"sprites/sJungleUnder/sJungleUnder.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"53b85f8a-aea3-4736-a132-77249d3a1ac6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e2bc3260-efc7-4e83-aeef-70fd6d96d8a6","path":"sprites/sJungleGround2/sJungleGround2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"871163c2-1bdc-434e-8c63-51336a74f665","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4565e4b9-7a10-46a9-8365-1ca39ccc1d34","path":"sprites/sJungleUnder/sJungleUnder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sJungleGround2","path":"sprites/sJungleGround2/sJungleGround2.yy",},
+    "parent": {"name":"sJungleUnder","path":"sprites/sJungleUnder/sJungleUnder.yy",},
     "resourceVersion": "1.4",
-    "name": "sJungleGround2",
+    "name": "sJungleUnder",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"fb38bcab-5b2f-4ebb-a80d-0e2940ef5b83","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9a7d19bc-df07-4106-93e0-bd078d305277","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Jungle.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sJungleGround2",
+  "name": "sJungleUnder",
   "tags": [],
   "resourceType": "GMSprite",
 }
