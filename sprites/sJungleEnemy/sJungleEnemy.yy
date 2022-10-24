@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 15,
-  "bbox_top": 0,
-  "bbox_bottom": 15,
+  "bbox_left": 2,
+  "bbox_right": 25,
+  "bbox_top": 8,
+  "bbox_bottom": 28,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 16,
-  "height": 16,
+  "width": 32,
+  "height": 32,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4565e4b9-7a10-46a9-8365-1ca39ccc1d34","path":"sprites/sJungleUnderHalfNG2/sJungleUnderHalfNG2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4565e4b9-7a10-46a9-8365-1ca39ccc1d34","path":"sprites/sJungleUnderHalfNG2/sJungleUnderHalfNG2.yy",},"LayerId":{"name":"9a7d19bc-df07-4106-93e0-bd078d305277","path":"sprites/sJungleUnderHalfNG2/sJungleUnderHalfNG2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sJungleUnderHalfNG2","path":"sprites/sJungleUnderHalfNG2/sJungleUnderHalfNG2.yy",},"resourceVersion":"1.0","name":"4565e4b9-7a10-46a9-8365-1ca39ccc1d34","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ccf8214c-4438-4c19-ae5e-3c16ddaebcfd","path":"sprites/sJungleEnemy/sJungleEnemy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ccf8214c-4438-4c19-ae5e-3c16ddaebcfd","path":"sprites/sJungleEnemy/sJungleEnemy.yy",},"LayerId":{"name":"5f2314f6-ea9e-4a28-82e4-5936b0fb4d75","path":"sprites/sJungleEnemy/sJungleEnemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sJungleEnemy","path":"sprites/sJungleEnemy/sJungleEnemy.yy",},"resourceVersion":"1.0","name":"ccf8214c-4438-4c19-ae5e-3c16ddaebcfd","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sJungleUnderHalfNG2","path":"sprites/sJungleUnderHalfNG2/sJungleUnderHalfNG2.yy",},
+    "spriteId": {"name":"sJungleEnemy","path":"sprites/sJungleEnemy/sJungleEnemy.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b9578a27-bc9a-45df-8dae-39c3a9732c1b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4565e4b9-7a10-46a9-8365-1ca39ccc1d34","path":"sprites/sJungleUnderHalfNG2/sJungleUnderHalfNG2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a9052bb9-d5a0-435a-9129-4c3897d555ce","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ccf8214c-4438-4c19-ae5e-3c16ddaebcfd","path":"sprites/sJungleEnemy/sJungleEnemy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sJungleUnderHalfNG2","path":"sprites/sJungleUnderHalfNG2/sJungleUnderHalfNG2.yy",},
+    "parent": {"name":"sJungleEnemy","path":"sprites/sJungleEnemy/sJungleEnemy.yy",},
     "resourceVersion": "1.4",
-    "name": "sJungleUnderHalfNG2",
+    "name": "sJungleEnemy",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9a7d19bc-df07-4106-93e0-bd078d305277","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5f2314f6-ea9e-4a28-82e4-5936b0fb4d75","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Jungle.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sJungleUnderHalfNG2",
+  "name": "sJungleEnemy",
   "tags": [],
   "resourceType": "GMSprite",
 }

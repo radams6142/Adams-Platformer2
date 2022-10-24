@@ -3,7 +3,7 @@
     "name": "sSteamPunkGround",
     "path": "sprites/sSteamPunkGround/sSteamPunkGround.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

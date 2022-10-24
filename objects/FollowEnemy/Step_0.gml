@@ -56,5 +56,3 @@ if(abs(Player.x - FollowEnemy.x) < 128)
 		x=x + xVector 
 		xVector = xVector
 }
-if (distance_to_object(Player) < 15)
-EnemyExplode()

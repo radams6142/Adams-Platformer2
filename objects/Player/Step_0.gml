@@ -29,3 +29,20 @@ if shooting and (ShootTimer<0)
 		direction= point_direction(x, y, Player.x, Player.y)
 	}
 }
+
+if state =  states.attack
+
+	if (image_index >= 1) && (image_index <=6)
+	{
+		with instance_create_layer(x,y,"Characters_Ground",oAttackHitbox)
+		{
+			image_xscale = other.image_xscale
+			with(instance_place(x,y,FollowEnemy))
+			{
+				
+					yGravity = -3
+					xSpeed = sign(x - other.x) * 4
+					image_xscale = sign(xSpeed)
+				}
+			}
+	}
