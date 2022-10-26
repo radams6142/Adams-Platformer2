@@ -1,10 +1,16 @@
 {
-  "spriteId": null,
-  "solid": false,
+  "spriteId": {
+    "name": "boundary",
+    "path": "sprites/boundary/boundary.yy",
+  },
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Ground",
+    "path": "objects/Ground/Ground.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,7 +31,7 @@
     "path": "folders/Objects/enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oJungleEnemy",
+  "name": "oBoundary",
   "tags": [],
   "resourceType": "GMObject",
 }

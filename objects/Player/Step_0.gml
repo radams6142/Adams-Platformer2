@@ -46,3 +46,7 @@ if state =  states.attack
 				}
 			}
 	}
+{
+if keyboard_check(ord("P"))
+game_restart()
+}
