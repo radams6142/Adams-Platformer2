@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sAttackHB",
-    "path": "sprites/sAttackHB/sAttackHB.yy",
+    "name": "sToucanHitbox",
+    "path": "sprites/sToucanHitbox/sToucanHitbox.yy",
   },
   "solid": false,
   "visible": false,
@@ -26,11 +26,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "player",
-    "path": "folders/Objects/player.yy",
+    "name": "enemies",
+    "path": "folders/Objects/enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oAttackHitbox",
+  "name": "oToucanHitbox",
   "tags": [],
   "resourceType": "GMObject",
 }

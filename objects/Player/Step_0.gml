@@ -32,7 +32,7 @@ if shooting and (ShootTimer<0)
 
 if state =  states.attack
 
-	if (image_index >= 1) && (image_index <=6)
+	if (image_index >= 5) && (image_index <= 6)
 	{
 		with instance_create_layer(x,y,"Characters_Ground",oAttackHitbox)
 		{
@@ -49,4 +49,10 @@ if state =  states.attack
 {
 if keyboard_check(ord("P"))
 game_restart()
+}
+{
+	if (knockingback == true) {
+    Player.x += lengthdir_x(1, xDirection);
+    Player.y += lengthdir_y(1, xDirection);
+}
 }
