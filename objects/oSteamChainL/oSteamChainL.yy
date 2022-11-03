@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sSteamChainL",
+    "path": "sprites/sSteamChainL/sSteamChainL.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -25,7 +28,7 @@
     "path": "folders/Objects/SteamPunk.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oItem_Cog",
+  "name": "oSteamChainL",
   "tags": [],
   "resourceType": "GMObject",
 }

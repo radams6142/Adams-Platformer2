@@ -51,8 +51,9 @@ if keyboard_check(ord("P"))
 game_restart()
 }
 {
-	if (knockingback == true) {
-    Player.x += lengthdir_x(1, xDirection);
-    Player.y += lengthdir_y(1, xDirection);
+	if (knockingback == true)
+{
+    Player.x -= 3.75
+    Player.y -= 3.75
 }
 }

@@ -1,6 +1,5 @@
 PlayerHurt()
 
-xDirection = point_direction(x, y, other.x, other.y);
-xSpeed = 10;
+//xDirection = point_direction(x, y, other.x, other.y);
 knockingback = true;
-alarm[4] = room_speed * 2
+alarm[4] = 16
