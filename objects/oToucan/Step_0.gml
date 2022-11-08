@@ -19,6 +19,6 @@ if (image_index >= 10) && (image_index <= 19)
 			}
 	}
 {
-    image_xscale = Player.image_xscale
+    image_xscale = -Player.image_xscale
 }
 	

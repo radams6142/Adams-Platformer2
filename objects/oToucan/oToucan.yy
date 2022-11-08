@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "enemies",
-    "path": "folders/Objects/enemies.yy",
+    "name": "SteamPunk",
+    "path": "folders/Objects/SteamPunk.yy",
   },
   "resourceVersion": "1.0",
   "name": "oToucan",

@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "sToucanHitbox",
-    "path": "sprites/sToucanHitbox/sToucanHitbox.yy",
+    "name": "sMimicHitbox",
+    "path": "sprites/sMimicHitbox/sMimicHitbox.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -20,17 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":77,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "SteamPunk",
-    "path": "folders/Objects/SteamPunk.yy",
+    "name": "Jungle",
+    "path": "folders/Objects/Jungle.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oToucanHitbox",
+  "name": "oMimicHitbox",
   "tags": [],
   "resourceType": "GMObject",
 }
