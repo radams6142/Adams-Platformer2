@@ -17,9 +17,7 @@ if (image_index >= 10) && (image_index <= 19)
 			}
 	}
 {
-//if sprite_index = sGraveMimicAwake or sprite_index = sGraveMimicAwakeIdle
-    //image_xscale = -Player.image_xscale
-
+	
 if sprite_index = sGraveMimicAwake && (image_speed > 0)
 {
    if (image_index >= image_number - 1) 
@@ -35,3 +33,5 @@ if x>Player.x
   {
    image_xscale = -1
   }
+if sprite_index = sGraveMimicAwakeIdle && distance_to_object(Player)<150
+instance_change(oMimicCharge, true)

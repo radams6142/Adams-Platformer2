@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sGraveMimicIdle",
-    "path": "sprites/sGraveMimicIdle/sGraveMimicIdle.yy",
+    "name": "sGraveMimicCharge",
+    "path": "sprites/sGraveMimicCharge/sGraveMimicCharge.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,7 +33,7 @@
     "path": "folders/Objects/Jungle.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oGraveMimic",
+  "name": "oMimicCharge",
   "tags": [],
   "resourceType": "GMObject",
 }
