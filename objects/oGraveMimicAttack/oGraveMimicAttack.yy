@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sMimicHitbox",
-    "path": "sprites/sMimicHitbox/sMimicHitbox.yy",
+    "name": "sGraveMimicAttack",
+    "path": "sprites/sGraveMimicAttack/sGraveMimicAttack.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":77,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects/Jungle.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oMimicHitbox",
+  "name": "oGraveMimicAttack",
   "tags": [],
   "resourceType": "GMObject",
 }

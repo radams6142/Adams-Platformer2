@@ -8,11 +8,6 @@ if x>Player.x
    image_xscale = -1
   }
  
-//if sprite_index = sGraveMimicCharge && (image_speed > 0)
-//{
-if (image_index = 13) 
-image_speed = 0
-
 xVector = xDirection * xSpeed;
 yVector = yVector + yGravity;
 
@@ -37,3 +32,11 @@ if x>Player.x
   {
    xDirection = -1
   }
+  
+if sprite_index = sGraveMimicCharge && (image_speed > 0)
+{
+   if (image_index >= image_number - 1) 
+	sprite_index = sGraveMimicCharging
+}
+if sprite_index = sGraveMimicCharging
+	instance_create_layer(x, y, "Characters_Ground", oMimicHitbox)
