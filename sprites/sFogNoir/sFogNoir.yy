@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Noir",
-    "path": "folders/Sprites/Noir.yy",
+    "path": "folders/Sprites/splashcreen/Noir.yy",
   },
   "resourceVersion": "1.0",
   "name": "sFogNoir",
