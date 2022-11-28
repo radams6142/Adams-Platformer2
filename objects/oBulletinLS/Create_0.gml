@@ -6,10 +6,9 @@ selectedAnim = 0;
 
 items = ds_list_create();
 
-//ds_list_add(items, ["Noir", 100, "Solve the murder"]);
 ds_list_add(items, ["Cyberpunk", 200, "Retrieve the lost tech implant"]);
-ds_list_add(items, ["Jungle", 300, "Retrieve the ancient artifact"]);
-ds_list_add(items, ["Steampunk", 400, "Shoot down the blimp"]);
+ds_list_add(items, ["Jungle", 300, "Defeat the Beast"]);
+ds_list_add(items, ["Steampunk", 400, "Collect 5 Cogs"]);
 
 itemcount = ds_list_size(items);
 

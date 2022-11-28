@@ -57,3 +57,5 @@ game_restart()
     Player.y -= 3.75
 }
 }
+if room = rSteamPunk && global.cogs = 5
+room_goto(rFarm)

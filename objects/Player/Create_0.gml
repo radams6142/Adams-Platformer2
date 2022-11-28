@@ -1,8 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 hit = false
-if room=rNoir 
-	shader_set(shNoir)
 
 if room!=rNoir
 shader_reset()
@@ -11,6 +9,9 @@ shader_reset()
 global.coins = 0;
 global.points = 0;
 global.inventory = ds_list_create()
+
+if room = rSteamPunk
+global.cogs = 0 
 
 hp=6;
 iFrames = false; 
