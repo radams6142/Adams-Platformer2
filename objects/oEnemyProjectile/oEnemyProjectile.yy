@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "enemies",
-    "path": "folders/Objects/enemies.yy",
+    "name": "Cyber",
+    "path": "folders/Objects/Cyber.yy",
   },
   "resourceVersion": "1.0",
   "name": "oEnemyProjectile",

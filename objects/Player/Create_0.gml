@@ -13,7 +13,7 @@ global.inventory = ds_list_create()
 if room = rSteamPunk
 global.cogs = 0 
 
-hp=6;
+hp=5;
 iFrames = false; 
 xSpeed = 3;
 canJump = true;
