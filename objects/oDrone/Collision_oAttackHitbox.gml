@@ -1,0 +1,1 @@
+oDrone.hp =- 1

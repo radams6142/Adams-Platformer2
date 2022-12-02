@@ -49,7 +49,7 @@ draw_set_halign(fa_center)
 	draw_set_valign(fa_left);
 draw_set_halign(fa_left);
 
-draw_text(8,8, "Money: " + string(global.coins));
+//draw_text(8,8, "Money: " + string(global.coins));
 
 draw_set_valign(fa_bottom)
 	draw_text(menuMargin + menuWidth + 4, guiHeight-4, "Reward: " + string(reward));

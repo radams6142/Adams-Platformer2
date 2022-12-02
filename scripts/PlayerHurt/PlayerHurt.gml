@@ -9,6 +9,7 @@ function PlayerHurt()
 		alarm_set(0, .2*room_speed);
 		hp--;
 		audio_play_sound(SndPlayerHurt,1,0)
+		
 		if (hp<1)
 		{
 			PlayerDeath();
@@ -19,9 +20,5 @@ function PlayerHurt()
 
 function PlayerDeath()
 {
-	
-audio_play_sound(SndPlayerDeath,1,0)
-audio_stop_all()
 room_restart ();
-
 }
