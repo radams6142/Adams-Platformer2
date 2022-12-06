@@ -36,5 +36,6 @@ if(shootTimer<0) && distance_to_object(Player)<45
 	}
 }
 
-if hp < 1 
+if ehp < 1 
 instance_destroy()
+alive = false

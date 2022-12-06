@@ -1,1 +1,1 @@
-oDrone.hp =- 1
+ehp = ehp - 1

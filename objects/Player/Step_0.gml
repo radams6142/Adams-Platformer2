@@ -59,3 +59,7 @@ game_restart()
 }
 if room = rSteamPunk && global.cogs = 5
 room_goto(rFarm)
+
+if Player.hp < 1
+
+room_goto(rFarm)

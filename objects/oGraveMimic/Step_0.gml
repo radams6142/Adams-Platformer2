@@ -35,3 +35,5 @@ if x>Player.x
   }
 if sprite_index = sGraveMimicAwakeIdle && distance_to_object(Player)<150
 instance_change(oMimicCharge, true)
+
+

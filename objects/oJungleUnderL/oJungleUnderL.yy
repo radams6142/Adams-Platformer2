@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sJungleUnderL",
+    "path": "sprites/sJungleUnderL/sJungleUnderL.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "HUD",
-    "path": "folders/Objects/HUD.yy",
+    "name": "Jungle",
+    "path": "folders/Objects/Jungle.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oCoinCounter",
+  "name": "oJungleUnderL",
   "tags": [],
   "resourceType": "GMObject",
 }

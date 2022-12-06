@@ -6,7 +6,12 @@ yGravity = .1;
 yVector = 0 
 
 iFrames = false;
-hp = 6;
+ehp = 6;
 iFramesTimer = 2
 
 shootTimer = 3;
+
+alive = true
+
+if alive = true
+instance_create_layer(oDrone.x, oDrone.y - 20, "Characters_Ground", oEnemyHealth)
