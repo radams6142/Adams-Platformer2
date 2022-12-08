@@ -58,8 +58,15 @@ game_restart()
 }
 }
 if room = rSteamPunk && global.cogs = 5
-room_goto(rFarm)
+//sprite_index = sPlayerCog
+room_goto(rFarm) 
+
+//if sprite_index = sPlayerCog && image_index = 4 && global.cogs = 5
+//room_goto(rFarm)
 
 if Player.hp < 1
 
-room_goto(rFarm)
+game_restart()
+
+if keyboard_check(ord("B")) && global.bombs > 0
+instance_create_layer(Player.x - 10, Player.y, "Characters_Ground", oExplosives)

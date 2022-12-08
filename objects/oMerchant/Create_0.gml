@@ -6,8 +6,8 @@ selectedAnim = 0;
 
 items = ds_list_create();
 
-ds_list_add(items, ["Drumstick", 1, "Restores half a heart"]);
-ds_list_add(items, ["2", 20, "Description 2"]);
+ds_list_add(items, ["Drumstick", 1, "Restores one health point"]);
+ds_list_add(items, ["Bomb", 20, "Blow up your enemies"]);
 ds_list_add(items, ["3", 30, "Description 3"]);
 
 itemcount = ds_list_size(items);

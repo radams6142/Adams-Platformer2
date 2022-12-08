@@ -2,18 +2,17 @@
 // You can write your code in this editor
 hit = false
 
-if room!=rNoir
-shader_reset()
-
 // global variables
-global.coins = 00;
+global.coins = 0;
 global.points = 0;
 global.inventory = ds_list_create()
+global.bombs = 0 
 
 if room = rSteamPunk
 global.cogs = 0 
 
 hp = 6
+hp = Player.hp
 
 iFrames = false; 
 xSpeed = 3;
