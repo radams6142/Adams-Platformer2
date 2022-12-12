@@ -2,9 +2,8 @@
 // You can write your code in this editor
 
 if (global.shop) exit
-
 //states
-script_execute (state_array[state]);
+script_execute(state_array[state]);
 sprite_index = sprite_array[state];
 
 if (hit = true)
@@ -15,21 +14,6 @@ if (y>= room_height)
 {
 	PlayerDeath();
 }
-ShootTimer -=1/room_speed;
-if shooting and (ShootTimer<0)
-{
-	alarm[2] = 50
-	instance_create_layer(Player.x, Player.y, "GunLayer", oGun)
-	audio_play_sound(SndShoot,1,0)
-	ShootTimer = .3;
-	var bullet= instance_create_layer(x,y,"Characters_Ground", oPlayerBullet)
-	with (bullet)
-	{
-		speed= 7;
-		direction= point_direction(x, y, Player.x, Player.y)
-	}
-}
-
 if state =  states.attack
 
 	if (image_index >= 5) && (image_index <= 6)
@@ -61,12 +45,16 @@ if room = rSteamPunk && global.cogs = 5
 //sprite_index = sPlayerCog
 room_goto(rFarm) 
 
-//if sprite_index = sPlayerCog && image_index = 4 && global.cogs = 5
-//room_goto(rFarm)
+if room = rCyberpunk && global.implant = 1
+//sprite_index = sPlayerCog
+room_goto(rFarm) 
 
 if Player.hp < 1
 
 game_restart()
 
-if keyboard_check(ord("B")) && global.bombs > 0
-instance_create_layer(Player.x - 10, Player.y, "Characters_Ground", oExplosives)
+if keyboard_check_pressed(ord("B")) 
+	instance_create_layer(Player.x - 10, Player.y, "Characters_Ground", oExplosives)
+
+if keyboard_check_pressed(ord("G"))
+instance_create_layer(x, y, "Characters_Ground", oPlayerBullet);

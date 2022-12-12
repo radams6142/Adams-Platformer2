@@ -1,0 +1,1 @@
+global.implant = 1
