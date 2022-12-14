@@ -6,9 +6,9 @@ selectedAnim = 0;
 
 items = ds_list_create();
 
-ds_list_add(items, ["Drumstick", 1, "Restores one health point"]);
-ds_list_add(items, ["Bomb", 20, "Blow up your enemies"]);
-ds_list_add(items, ["3", 30, "Description 3"]);
+ds_list_add(items, ["Drumstick", 15, "Restores one health point"]);
+ds_list_add(items, ["Bomb", 200, "Blow up your enemies by pressing B"]);
+ds_list_add(items, ["Your Freedom", 500, "Buy your freedom and escape the cycle"]);
 
 itemcount = ds_list_size(items);
 

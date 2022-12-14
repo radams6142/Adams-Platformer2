@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 if (global.shop) exit
 //states
 script_execute(state_array[state]);
@@ -42,19 +39,15 @@ game_restart()
 }
 }
 if room = rSteamPunk && global.cogs = 5
-//sprite_index = sPlayerCog
 room_goto(rFarm) 
 
-if room = rCyberpunk && global.implant = 1
-//sprite_index = sPlayerCog
+
+if room = rCyber && global.implant = 1 
 room_goto(rFarm) 
 
-if Player.hp < 1
+if global.hp < 1
 
 game_restart()
 
-if keyboard_check_pressed(ord("B")) 
+if keyboard_check_pressed(ord("B")) && global.bombs > 0
 	instance_create_layer(Player.x - 10, Player.y, "Characters_Ground", oExplosives)
-
-if keyboard_check_pressed(ord("G"))
-instance_create_layer(x, y, "Characters_Ground", oPlayerBullet);

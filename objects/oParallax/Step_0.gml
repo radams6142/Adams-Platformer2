@@ -9,4 +9,3 @@ layer_x(BG2, lerp(0, camera_get_view_x(view_camera[0]), 0.7) );
 layer_x(BGF, lerp(0, camera_get_view_x(view_camera[0]), 0.75) );
 layer_x(BG3, lerp(0, camera_get_view_x(view_camera[0]), 0.85) );
 layer_x(BG4, lerp(0, camera_get_view_x(view_camera[0]), 0.9) );
-

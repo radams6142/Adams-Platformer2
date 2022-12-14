@@ -3,20 +3,15 @@
 hit = false
 
 //global variables
-global.coins = 0;
-global.points = 0;
-global.inventory = ds_list_create()
-global.bombs = 0 
 
 
-if room = rCyberpunk
+if room = rCyber
 global.implant = 0
 
 if room = rSteamPunk
 global.cogs = 0 
 
-hp = 6
-hp = Player.hp
+
 
 iFrames = false; 
 xSpeed = 4;

@@ -1,4 +1,4 @@
-hp = hp - 1
+global.hp = global.hp - 1
 
 knockingback = true;
 alarm[8] = 10
