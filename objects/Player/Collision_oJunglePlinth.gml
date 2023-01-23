@@ -1,1 +1,2 @@
-room_goto(rFarm)
+global.jung = 1 
+global.coins += 200

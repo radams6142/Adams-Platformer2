@@ -8,6 +8,9 @@ hit = false
 if room = rCyber
 global.implant = 0
 
+if room = rJungle
+global.jung = 0
+
 if room = rSteamPunk
 global.cogs = 0 
 

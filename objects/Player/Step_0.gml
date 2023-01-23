@@ -38,16 +38,20 @@ game_restart()
     Player.y -= 3.75
 }
 }
-if room = rSteamPunk && global.cogs = 5
+if room = rSteamPunk && global.cogs = 5 {
 room_goto(rFarm) 
+}
 
 
-if room = rCyber && global.implant = 1 
+if room = rJungle && global.jung = 1 {
 room_goto(rFarm) 
+}
 
+if room = rCyber && global.implant = 1 {
+room_goto(rFarm) 
+}
 
 if global.hp < 1
-
 game_restart()
 
 if keyboard_check_pressed(ord("B")) && global.bombs > 0
