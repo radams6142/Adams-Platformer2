@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Title2",
-    "path": "sprites/Title2/Title2.yy",
+    "name": "sFowlPlay",
+    "path": "sprites/sFowlPlay/sFowlPlay.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/splashscreen.yy",
   },
   "resourceVersion": "1.0",
-  "name": "FowlPlay",
+  "name": "oFowlPlay",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -45,6 +45,7 @@ room_goto(rFarm)
 if room = rCyber && global.implant = 1 
 room_goto(rFarm) 
 
+
 if global.hp < 1
 
 game_restart()

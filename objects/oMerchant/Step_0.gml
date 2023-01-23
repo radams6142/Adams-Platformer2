@@ -35,7 +35,7 @@ if (shopOpen){
 	if (keyboard_check_pressed(vk_enter)) && item = "Bomb"
 	global.bombs = global.bombs + 1 
 	
-	if (keyboard_check_pressed(vk_enter)) && item = "Your Freedom"
+	if (keyboard_check_pressed(vk_enter)) && item = "The End"
 	//instance_create_layer(260, 140, "Characters_Ground", oPlayerBullet)
 		
 	global.coins = global.coins-price
