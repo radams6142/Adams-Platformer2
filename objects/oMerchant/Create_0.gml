@@ -8,7 +8,7 @@ items = ds_list_create();
 
 ds_list_add(items, ["Drumstick", 15, "Restores one health point"]);
 ds_list_add(items, ["Bomb", 200, "Blow up your enemies by pressing B"]);
-ds_list_add(items, ["Your Freedom", 500, "Buy your freedom and escape the cycle"]);
+ds_list_add(items, ["The End", 500, "Buy your freedom and escape the cycle"]);
 
 itemcount = ds_list_size(items);
 

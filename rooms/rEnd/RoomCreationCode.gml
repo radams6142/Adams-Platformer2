@@ -1,0 +1,1 @@
+audio_play_sound(SndMusic,1,2232323)

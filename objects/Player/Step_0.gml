@@ -28,8 +28,6 @@ if state =  states.attack
 			}
 	}
 {
-if keyboard_check(ord("P"))
-game_restart()
 }
 {
 	if (knockingback == true)
@@ -39,7 +37,8 @@ game_restart()
 }
 }
 if room = rSteamPunk && global.cogs = 5 {
-room_goto(rFarm) 
+sprite_index = sPlayerCog 
+alarm [9] = 1
 }
 
 
@@ -52,7 +51,13 @@ room_goto(rFarm)
 }
 
 if global.hp < 1
-game_restart()
+room_goto(rEnd)
 
 if keyboard_check_pressed(ord("B")) && global.bombs > 0
 	instance_create_layer(Player.x - 10, Player.y, "Characters_Ground", oExplosives)
+	
+if keyboard_check(ord("P"))
+game_restart()
+
+if keyboard_check(vk_tab)
+game_end()

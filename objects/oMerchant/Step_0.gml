@@ -36,7 +36,7 @@ if (shopOpen){
 	global.bombs = global.bombs + 1 
 	
 	if (keyboard_check_pressed(vk_enter)) && item = "The End"
-	//instance_create_layer(260, 140, "Characters_Ground", oPlayerBullet)
+	room_goto(rEnd)
 		
 	global.coins = global.coins-price
 }

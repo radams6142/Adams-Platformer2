@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sPressP",
+    "path": "sprites/sPressP/sPressP.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "flags",
-    "path": "folders/Objects/flags.yy",
+    "name": "splashscreen",
+    "path": "folders/Objects/splashscreen.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oJungleTemple",
+  "name": "oPressP",
   "tags": [],
   "resourceType": "GMObject",
 }
