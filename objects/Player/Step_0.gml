@@ -37,8 +37,7 @@ if state =  states.attack
 }
 }
 if room = rSteamPunk && global.cogs = 5 {
-sprite_index = sPlayerCog 
-alarm [9] = 1
+room_goto(rFarm) 
 }
 
 
