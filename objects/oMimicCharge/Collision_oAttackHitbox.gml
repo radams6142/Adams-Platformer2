@@ -1,2 +1,2 @@
 instance_destroy(self)
-instance_destroy(oToucanHitbox)
+instance_destroy(oAttackHitbox)

@@ -4,18 +4,19 @@ function stPlayerJumping()
 {
 	MoveX()
 	
-	if (canJump)
+	if (canJump) 
 	{
 		canJump = false;
 		yVector = jumpForce;
 	}
-	
+
 	MoveY()
 
 	
 	if(place_meeting(x, y+1, Ground))
 	{
 		canJump = true 
+		sprite_index = sPlayerJumpEnd
 		state = states.walking;
 	}
 } 

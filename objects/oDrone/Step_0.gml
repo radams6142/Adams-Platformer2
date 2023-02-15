@@ -35,7 +35,3 @@ if(shootTimer<0) && distance_to_object(Player)<45
 		direction= point_direction(x, y, Player.x, Player.y)
 	}
 }
-
-if ehp < 1 
-instance_destroy()
-alive = false
