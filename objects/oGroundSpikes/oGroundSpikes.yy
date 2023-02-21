@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "cave",
-    "path": "folders/Objects/cave.yy",
+    "name": "Jungle",
+    "path": "folders/Objects/Jungle.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -38,11 +38,3 @@ if sprite_index = sGraveMimicCharge && (image_speed > 0)
    if (image_index >= image_number - 1) 
 	sprite_index = sGraveMimicCharging
 }
-{
-if sprite_index = sGraveMimicCharging
-	instance_create_layer(x, y, "Characters_Ground", oMimicHitbox)
-}
-{
-if place_meeting(x,y, oGroundSpikes)
-instance_destroy(self) 
-}

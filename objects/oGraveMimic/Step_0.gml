@@ -4,7 +4,6 @@ hide = false
 }
 if (image_index >= 10) && (image_index <= 19)
 	{
-		with instance_create_layer(x,y,"Characters_Ground",oMimicHitbox)
 		{
 			image_xscale = other.image_xscale
 			with(instance_place(x,y,FollowEnemy))

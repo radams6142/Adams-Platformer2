@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (hit) { 
+if hit = true{ 
     shader_set(shPlayerFlash);   
     draw_self(); 
     shader_reset(); 
@@ -8,7 +8,3 @@ if (hit) {
 } else {
     draw_self(); 
 }
-
-draw_set_font(Dialogue)
-
-
