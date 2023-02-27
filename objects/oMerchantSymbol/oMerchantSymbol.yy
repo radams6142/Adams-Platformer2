@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlayerBullet",
+  "name": "oMerchantSymbol",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "PlayerWeapons",
-    "path": "folders/Objects/player/PlayerWeapons.yy",
+    "name": "Desert",
+    "path": "folders/Objects/Desert.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlayerBullet",
-    "path": "sprites/sPlayerBullet/sPlayerBullet.yy",
+    "name": "sMerchantSymbol",
+    "path": "sprites/sMerchantSymbol/sMerchantSymbol.yy",
   },
   "spriteMaskId": null,
   "visible": true,
