@@ -7,12 +7,14 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
+    {"name":"inst_6C060D95","path":"rooms/SplashScreen/SplashScreen.yy",},
     {"name":"inst_41899AC3","path":"rooms/SplashScreen/SplashScreen.yy",},
     {"name":"inst_4085D87","path":"rooms/SplashScreen/SplashScreen.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":1,"gridY":1,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6C060D95","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oLevelManager","path":"objects/oLevelManager/oLevelManager.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_41899AC3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oFowlPlay","path":"objects/oFowlPlay/oFowlPlay.yy",},"properties":[],"rotation":0.0,"scaleX":5.9701495,"scaleY":4.586207,"x":980.0,"y":366.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4085D87","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPressDown","path":"objects/oPressDown/oPressDown.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":721.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},

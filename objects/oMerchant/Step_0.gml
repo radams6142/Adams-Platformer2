@@ -41,7 +41,3 @@ if (shopOpen){
 	global.coins = global.coins-price
 }
 }
-{
-if shopOpen = true
-	instance_destroy(oMerchantSymbol)
-}
