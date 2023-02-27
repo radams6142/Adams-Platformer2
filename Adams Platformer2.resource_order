@@ -1,9 +1,6 @@
 {
   "FolderOrderSettings": [
-    {"name":"Animation Curves","order":8,"path":"folders/Animation Curves.yy",},
-    {"name":"Extensions","order":10,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
-    {"name":"Notes","order":9,"path":"folders/Notes.yy",},
     {"name":"Objects","order":6,"path":"folders/Objects.yy",},
     {"name":"collectibles","order":4,"path":"folders/Objects/collectibles.yy",},
     {"name":"Cyber","order":12,"path":"folders/Objects/Cyber.yy",},
@@ -18,7 +15,6 @@
     {"name":"SteamPunk","order":11,"path":"folders/Objects/SteamPunk.yy",},
     {"name":"Rooms","order":11,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":3,"path":"folders/Scripts.yy",},
-    {"name":"Sequences","order":7,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
     {"name":"buttons","order":5,"path":"folders/Sprites/buttons.yy",},
@@ -34,8 +30,6 @@
     {"name":"splashcreen","order":6,"path":"folders/Sprites/splashcreen.yy",},
     {"name":"Noir","order":6,"path":"folders/Sprites/splashcreen/Noir.yy",},
     {"name":"Steampunk","order":9,"path":"folders/Sprites/Steampunk.yy",},
-    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
-    {"name":"Timelines","order":12,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oDrone","order":1,"path":"objects/oDrone/oDrone.yy",},
