@@ -1,12 +1,10 @@
 if (global.shop) exit
-//states
 script_execute(state_array[state]);
 sprite_index = sprite_array[state];
 
 if (hit = true)
 alarm[1] = 1.9
 
-//fall death
 if (y>= room_height)
 {
 	PlayerDeath();
